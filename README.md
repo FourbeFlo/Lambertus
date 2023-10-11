@@ -14,9 +14,9 @@ We follow the transcription of S. Gabay et al. Additional characters had to be t
 
 The pilcrow was transcribed by  ¶
 
-| Sign    | Transcription | image                               |
-|---------|---------------|-------------------------------------|
-| Pilcrow | ¶             | ![pilcrow](images/piedDeMouche.jpg | width=100) |
+| Sign    | Transcription | image                                    | Reference                                            |
+|---------|---------------|------------------------------------------|------------------------------------------------------|
+| Pilcrow | ¶             | ![](images/piedDeMouche.jpg | width=100) | [e-rara](https://doi.org/10.3931/e-rara-6338), p. 11 |
 
 
 ## Licence 
