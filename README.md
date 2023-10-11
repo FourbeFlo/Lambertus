@@ -2,7 +2,7 @@
 
 # Data
 
-Alto files with segmentation and transcription fully corrected manually
+ALTO files with segmentation and transcription fully corrected manually
 
 ## Licence 
 Transcriptions are open source, not the image which belong to the Library of Geneva (BGE)
