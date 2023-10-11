@@ -6,7 +6,7 @@ This repository contains data from the project on Paul's exegesis.
 
 # Data
 
-ALTO files with segmentation and transcription fully corrected manually
+The data can be found at './data/**/*xml'. They are in ALTO format and follow SegmOnto segmentation standards (https://segmonto.github.io). All data is produced using the eScriptorium interface and is catalogued on HTR-United (https://htr-united.github.io). The ALTO files are corrected manually: the segmentation and transcription from the HTR are currently being checked.
 
 ## Transcription guidelines
 
@@ -22,7 +22,7 @@ The pilcrow was transcribed by  ¶
 ## Licence 
 The transcriptions are [CC-BY](https://creativecommons.org/licenses/by/4.0), and the images follow the rules of various digital libraries:
 - e-rara: https://www.e-rara.ch/wiki/termsOfUse?lang=en
-- 
+  
 ## Citation
 Floriane Goy, _Data for roman 16 th c. Latin print_,  university of Geneve 2023
  
