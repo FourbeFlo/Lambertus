@@ -36,98 +36,71 @@ authors:
   surname: Solfaroli Camillocci
 characters:
   members:
-  - e
-  - s
-  - u
   - i
-  - a
+  - e
   - t
-  - r
+  - a
+  - u
+  - s
   - n
   - o
-  - l
+  - r
+  - m
   - c
   - d
   - p
-  - .
-  - m
-  - ̃
-  - /
-  - f
-  - q
-  - y
-  - g
-  - h
-  - b
-  - ⁊
-  - z
-  - x
-  - ':'
-  - C
-  - I
-  - E
-  - D
-  - '1'
-  - '-'
-  - ¬
-  - L
-  - P
-  - A
-  - M
-  - S
-  - '2'
-  - ¶
-  - '3'
-  - ͥ
-  - T
-  - Q
-  - N
-  - '4'
-  - ͬ
-  - R
-  - '5'
-  - U
-  - '?'
-  - ꝰ
-  - '6'
-  - O
-  - H
+  - l
   - ','
-  - '0'
-  - G
-  - (
-  - )
-  - B
-  - '9'
-  - '7'
-  - '8'
-  - ꝓ
-  - F
-  - ꝑ
-  - ̈
-  -  
-  - ◊
-  - ł
-  - ꝯ
-  - ꝝ
-  - ð
-  - "'"
-  - k
-  - ̀
+  - q
+  - .
+  - h
+  - ¬
   - v
-  - K
-  - Y
-  - Z
+  - b
+  - £
+  - E
+  - f
+  - g
+  - P
+  - D
+  - I
+  - A
+  - T
+  - x
+  - C
   - V
+  - S
+  - M
+  - N
+  - L
+  - ':'
+  - (
+  - O
+  - R
+  - Q
+  - H
+  - G
+  - F
+  - '3'
+  - ſ
+  - '1'
+  - '4'
+  - U
+  - )
+  - y
+  - æ
+  - '2'
+  - j
+  - '5'
+  - '6'
+  - '9'
   - X
-  - ́
-  - J
-  - ꝫ
-  - ;
-  - w
-  - ꝗ
-  - ̇
-  - ̌
+  - '?'
+  - B
+  - '-'
+  - '7'
+  - '0'
+  - Z
   mode: NFD
 description: Data for the SETAF project, 16th-century French prints in Gothic characters.
 format: Alto-XML
@@ -154,11 +127,11 @@ transcription-guidelines: A presentation of the rules established for the transc
   will be available on our website.
 url: https://github.com/SETAFDH/HTR-SETAF-Pierre-de-Vingle
 volume:
-- count: 572102
+- count: 11175
   metric: characters
-- count: 802
+- count: 13
   metric: files
-- count: 22340
+- count: 357
   metric: lines
-- count: 2581
+- count: 81
   metric: regions
