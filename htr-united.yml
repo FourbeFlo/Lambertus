@@ -5,7 +5,6 @@ authors:
   - project-manager
   - quality-control
   surname: Goy
-automatically-aligned: false
 characters:
   members:
   - i
@@ -79,7 +78,6 @@ format: Alto-XML
 hands:
   count: '1'
   precision: exact
-institutions: []
 language:
 - eng
 license:
