@@ -10,53 +10,61 @@ characters:
   - i
   - e
   - u
-  - a
   - t
-  - o
+  - a
   - n
+  - o
   - r
-  - m
   - ſ
-  - l
+  - m
   - c
-  - p
-  - s
-  - ','
-  - ¬
   - d
+  - ','
+  - p
+  - l
+  - s
+  - £
   - q
-  - I
+  - ̃
+  - æ
+  - ¬
   - b
-  - '&'
   - h
   - v
-  - ̃
-  - S
-  - P
-  - .
-  - T
-  - N
-  - C
-  - æ
-  - O
-  - E
+  - '&'
   - g
-  - ̀
-  - L
-  - R
-  - M
-  - D
-  - G
-  - A
   - f
-  - V
-  - H
-  - Z
-  - Q
-  - '?'
+  - .
+  - I
+  - E
+  - P
+  - S
+  - D
+  - ̀
+  - T
+  - O
+  - C
+  - x
+  - R
+  - A
   - ':'
-  - '3'
+  - L
+  - M
+  - N
   - j
+  - Q
+  - V
+  - G
+  - H
+  - '|'
+  - ̂
+  - ́
+  - Z
+  - '?'
+  - '3'
+  - (
+  - )
+  - ¶
   mode: NFD
 description: Data for data for Paul’s exegesis.
 format: Alto-XML
@@ -82,7 +90,7 @@ title: Lambertus
 transcription-guidelines: Our data follow SegmOnto segmentation standards (https://segmonto.github.io).
 url: https://github.com/FourbeFlo/Lambertus
 volume:
-- count: 718
+- count: 2676
   metric: characters
 - count: 3
   metric: files
