@@ -76,11 +76,7 @@ characters:
   - '7'
   - '0'
   mode: NFD
-<<<<<<< Updated upstream
-description: data from Paul’s exegesis projet
-=======
 description: Data form for Paul’s exegesis projet, 16th-century latin prints in Roman characters.
->>>>>>> Stashed changes
 format: Alto-XML
 hands:
   count: '1'
@@ -91,18 +87,14 @@ license:
 - name: CC-BY 4.0
   url: https://creativecommons.org/licenses/by/4.0/
 production-software: eScriptorium + Kraken
-<<<<<<< Updated upstream
 project-name: FoNDUE
 schema: https://htr-united.github.io/schema/2023-06-27/schema.json
-=======
 schema: https://htr-united.github.io/schema/2022-04-15/schema.json
->>>>>>> Stashed changes
 script:
 - iso: Latn
 script-type: only-typed
 time:
   notAfter: '1699'
-<<<<<<< Updated upstream
   notBefore: '1500'
 title: Lambertus
 url: https://github.com/FourbeFlo/Lambertus
@@ -115,9 +107,7 @@ volume:
   metric: lines
 - count: 89
   metric: regions
-=======
   notBefore: '1400'
 title: Lambertus
 url:  https://github.com/FourbeFlo/Lambertus
 
->>>>>>> Stashed changes
