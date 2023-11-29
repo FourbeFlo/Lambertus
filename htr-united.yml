@@ -7,60 +7,56 @@ authors:
   surname: Goy
 characters:
   members:
-  - e
   - i
-  - a
+  - e
   - u
+  - a
   - t
-  - n
   - o
-  - s
+  - n
   - r
   - m
-  - c
-  - d
-  - ','
-  - l
-  - p
-  - £
-  - q
-  - ¬
   - ſ
+  - l
+  - c
+  - p
+  - s
+  - ','
+  - ¬
+  - d
+  - q
+  - I
   - b
+  - '&'
   - h
   - v
-  - g
-  - f
-  - E
-  - .
-  - I
-  - P
-  - S
-  - D
-  - æ
-  - T
-  - O
-  - C
-  - '&'
   - ̃
-  - x
-  - R
-  - A
-  - ':'
-  - L
-  - M
+  - S
+  - P
+  - .
+  - T
   - N
+  - C
+  - æ
+  - O
+  - E
+  - g
   - ̀
-  - Q
-  - V
+  - L
+  - R
+  - M
+  - D
   - G
+  - A
+  - f
+  - V
   - H
-  - j
   - Z
+  - Q
   - '?'
+  - ':'
   - '3'
-  - (
-  - )
+  - j
   mode: NFD
 description: Data for data for Paul’s exegesis.
 format: Alto-XML
@@ -86,11 +82,11 @@ title: Lambertus
 transcription-guidelines: Our data follow SegmOnto segmentation standards (https://segmonto.github.io).
 url: https://github.com/FourbeFlo/Lambertus
 volume:
-- count: 2719
+- count: 718
   metric: characters
 - count: 3
   metric: files
-- count: 87
+- count: 88
   metric: lines
 - count: 11
   metric: regions
