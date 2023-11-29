@@ -485,23 +485,6 @@
         <TextBlock ID="eSc_dummyblock_">
           
           
-          <TextLine ID="eSc_line_533d98ee"
-                    
-                    BASELINE="145 1004 220 1005 267 1006 336 1007" 
-                    HPOS="132"
-                    VPOS="790"
-                    WIDTH="211"
-                    HEIGHT="245">
-            <Shape><Polygon POINTS="132 1024 343 1035 334 1006 338 792 147 790 143 1002"/></Shape>
-	    <String CONTENT="V"
-                    HPOS="132"
-                    VPOS="790"
-                    WIDTH="211"
-                    HEIGHT="245"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_934d7a14"
                     
                     BASELINE="354 988 981 979" 
