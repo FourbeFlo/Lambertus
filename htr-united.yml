@@ -84,10 +84,6 @@ time:
   notBefore: '1600'
 title: Lambertus
 transcription-guidelines: Our data follow SegmOnto segmentation standards (https://segmonto.github.io).
-  Our transcription guidelines follow a graphematic approach, without regularisation.
-  We keep the original punctuation and abbreviations. A detailed presentation (about
-  30 pages) of the rules we established for the transcriptions will be available on
-  our website.
 url: https://github.com/FourbeFlo/Lambertus
 volume:
 - count: 2719
