@@ -26,52 +26,55 @@ characters:
   - .
   - h
   - ¬
-  - v
-  - b
   - £
-  - E
-  - f
+  - b
+  - v
   - g
+  - f
+  - E
   - P
-  - D
   - I
-  - A
+  - ſ
+  - D
   - T
+  - A
   - x
   - C
-  - V
   - S
+  - V
   - M
   - N
-  - L
   - ':'
-  - (
+  - L
   - O
   - R
+  - (
+  - æ
   - Q
-  - H
+  - '&'
+  - ̃
   - G
-  - F
+  - H
   - '3'
-  - ſ
+  - F
+  - )
   - '1'
   - '4'
+  - ̀
   - U
-  - )
-  - y
-  - æ
-  - '2'
   - j
+  - y
+  - '2'
+  - '?'
   - '5'
   - '6'
   - '9'
+  - Z
   - X
-  - '?'
   - B
   - '-'
   - '7'
   - '0'
-  - Z
   mode: NFD
 description: data from Paul’s exegesis projet
 format: Alto-XML
@@ -95,11 +98,11 @@ time:
 title: Lambertus
 url: https://github.com/FourbeFlo/Lambertus
 volume:
-- count: 11175
+- count: 13887
   metric: characters
-- count: 13
+- count: 16
   metric: files
-- count: 357
+- count: 444
   metric: lines
-- count: 81
+- count: 89
   metric: regions
