@@ -36,87 +36,74 @@ authors:
   surname: Solfaroli Camillocci
 characters:
   members:
-  - e
-  - s
-  - u
-  - a
   - i
-  - n
+  - e
   - t
-  - r
+  - a
+  - u
+  - s
+  - n
   - o
-  - l
+  - r
+  - m
   - c
   - d
   - p
-  - m
-  - .
+  - l
   - ','
-  - f
   - q
-  - g
-  - ̃
-  - y
-  - b
+  - .
   - h
-  - /
-  - z
-  - ⁊
   - ¬
-  - ':'
-  - C
-  - D
-  - x
-  - E
-  - I
-  - P
-  - L
-  - S
-  - '1'
-  - A
-  - M
-  - Q
-  - '2'
-  - U
-  - '?'
-  - '3'
-  - N
-  - T
-  - '4'
-  - O
-  - ͥ
-  - B
-  - R
-  - ꝰ
-  - H
-  - '6'
-  - '5'
-  - ͬ
-  - G
-  - '8'
-  - F
-  - (
-  - )
-  - '0'
-  - '9'
-  - ¶
-  - '7'
-  - ◊
-  - ꝓ
-  -  
-  - ꝑ
-  - V
-  - ᑕ
-  - Y
-  - '-'
-  - ;
-  - ᗞ
-  - J
-  - k
-  - ̀
-  - Z
+  - £
+  - b
   - v
-  - ꝯ
+  - g
+  - f
+  - E
+  - P
+  - I
+  - ſ
+  - D
+  - T
+  - A
+  - x
+  - C
+  - S
+  - V
+  - M
+  - N
+  - ':'
+  - L
+  - O
+  - R
+  - (
+  - æ
+  - Q
+  - '&'
+  - ̃
+  - G
+  - H
+  - '3'
+  - F
+  - )
+  - '1'
+  - '4'
+  - ̀
+  - U
+  - j
+  - y
+  - '2'
+  - '?'
+  - '5'
+  - '6'
+  - '9'
+  - Z
+  - X
+  - B
+  - '-'
+  - '7'
+  - '0'
   mode: NFD
 description: Data for the SETAF project, 16th-century French prints in Gothic characters.
 format: Alto-XML
@@ -146,11 +133,11 @@ transcription-guidelines: Our data follow SegmOnto segmentation standards (https
   our website.
 url: https://github.com/SETAFDH/HTR-SETAF-Jean-Michel
 volume:
-- count: 286256
+- count: 13887
   metric: characters
-- count: 404
+- count: 16
   metric: files
-- count: 11778
+- count: 444
   metric: lines
-- count: 1365
+- count: 89
   metric: regions
