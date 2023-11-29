@@ -88,6 +88,7 @@ license:
   url: https://creativecommons.org/licenses/by/4.0/
 production-software: eScriptorium + Kraken
 project-name: FoNDUE
+schema: https://htr-united.github.io/schema/2023-06-27/schema.json
 schema: https://htr-united.github.io/schema/2022-04-15/schema.json
 script:
 - iso: Latn
