@@ -25,16 +25,6 @@
                   WIDTH="1505"
                   HEIGHT="2180">
         
-        <TextBlock HPOS="546"
-                   VPOS="194"
-                   WIDTH="899"
-                   HEIGHT="1628"
-                   ID="eSc_textblock_e7b04465"
-                   TAGREFS="BT1688">
-          <Shape><Polygon POINTS="1339 197 1339 194 1418 194 1430 218 1438 1140 692 1140 692 1163 693 1163 693 1176 1439 1176 1445 1807 1245 1807 1245 1810 1208 1810 1208 1814 567 1822 546 210 923 210 923 202 1243 202 1243 200 1297 200 1297 197"/></Shape>
-          
-        </TextBlock>
-        
         <TextBlock HPOS="542"
                    VPOS="164"
                    WIDTH="81"
@@ -42,32 +32,6 @@
                    ID="eSc_textblock_f43d6612"
                    TAGREFS="BT1693">
           <Shape><Polygon POINTS="542 198 557 164 623 165 622 201"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="714"
-                   VPOS="138"
-                   WIDTH="560"
-                   HEIGHT="57"
-                   ID="eSc_textblock_79d98b03"
-                   TAGREFS="BT1690">
-          <Shape><Polygon POINTS="1163 138 1274 145 1274 190 909 190 909 191 899 191 899 195 714 195 714 153"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="1299"
-                   VPOS="1822"
-                   WIDTH="146"
-                   HEIGHT="43"
-                   ID="eSc_textblock_51fa913c"
-                   TAGREFS="BT1689">
-          <Shape><Polygon POINTS="1445 1858 1301 1865 1299 1863 1299 1822 1445 1822"/></Shape>
-          
-        </TextBlock>
-        
-
-        
-        <TextBlock ID="eSc_dummyblock_">
           
           
           <TextLine ID="eSc_line_a8201906"
@@ -86,6 +50,16 @@
           </TextLine>
 
           
+        </TextBlock>
+        
+        <TextBlock HPOS="714"
+                   VPOS="138"
+                   WIDTH="560"
+                   HEIGHT="57"
+                   ID="eSc_textblock_79d98b03"
+                   TAGREFS="BT1690">
+          <Shape><Polygon POINTS="1163 138 1274 145 1274 190 909 190 909 191 899 191 899 195 714 195 714 153"/></Shape>
+          
           
           <TextLine ID="eSc_line_60322c11"
                     TAGREFS="LT649"
@@ -102,6 +76,16 @@
                     HEIGHT="86"></String>
           </TextLine>
 
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="547"
+                   VPOS="197"
+                   WIDTH="904"
+                   HEIGHT="1639"
+                   ID="eSc_textblock_27df2cbc"
+                   TAGREFS="BT1688">
+          <Shape><Polygon POINTS="547 206 558 1727 559 1836 1446 1809 1451 197 1380 198"/></Shape>
           
           
           <TextLine ID="eSc_line_aa3d7763"
@@ -451,7 +435,7 @@
                     VPOS="1157"
                     WIDTH="833"
                     HEIGHT="83">
-            <Shape><Polygon POINTS="690 1179 672 1180 654 1180 636 1180 617 1180 599 1180 601 1228 601 1240 1432 1220 1432 1211 1426 1157 1059 1171 1006 1169 877 1162 876 1162 808 1173 792 1166 790 1166 788 1166 787 1166 785 1166 768 1177 767 1177 756 1177 690 1173 690 1179"/></Shape>
+            <Shape><Polygon POINTS="672 1180 654 1180 636 1180 617 1180 599 1180 601 1228 601 1240 1432 1220 1432 1211 1426 1157 1059 1171 1006 1169 877 1162 876 1162 808 1173 792 1166 790 1166 788 1166 787 1166 785 1166 768 1177 767 1177 756 1177 690 1173 690 1179"/></Shape>
 	    <String CONTENT="Secunda vero quæſtio, quæ ad hunc quoque"
                     HPOS="599"
                     VPOS="1157"
@@ -664,6 +648,16 @@
           </TextLine>
 
           
+        </TextBlock>
+        
+        <TextBlock HPOS="1299"
+                   VPOS="1822"
+                   WIDTH="146"
+                   HEIGHT="43"
+                   ID="eSc_textblock_51fa913c"
+                   TAGREFS="BT1689">
+          <Shape><Polygon POINTS="1445 1858 1301 1865 1299 1863 1299 1822 1445 1822"/></Shape>
+          
           
           <TextLine ID="eSc_line_985938d6"
                     TAGREFS="LT648"
@@ -682,6 +676,8 @@
 
           
         </TextBlock>
+        
+
         
       </PrintSpace>
     </Page>
