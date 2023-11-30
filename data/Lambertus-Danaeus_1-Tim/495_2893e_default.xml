@@ -79,13 +79,13 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="542"
-                   VPOS="199"
-                   WIDTH="881"
-                   HEIGHT="1591"
-                   ID="eSc_textblock_c4ea3d01"
+        <TextBlock HPOS="543"
+                   VPOS="191"
+                   WIDTH="886"
+                   HEIGHT="1603"
+                   ID="eSc_textblock_5e1ed66d"
                    TAGREFS="BT1688">
-          <Shape><Polygon POINTS="548 203 542 1790 1423 1784 1421 199"/></Shape>
+          <Shape><Polygon POINTS="543 206 549 1794 1429 1785 1424 191"/></Shape>
           
           
           <TextLine ID="eSc_line_257b85c4"
@@ -418,7 +418,7 @@
                     VPOS="1173"
                     WIDTH="169"
                     HEIGHT="76">
-            <Shape><Polygon POINTS="548 1228 548 1249 714 1231 716 1224 712 1189 643 1188 625 1173 623 1173 621 1173 619 1173 547 1184 548 1228"/></Shape>
+            <Shape><Polygon POINTS="548 1249 714 1231 716 1224 712 1189 643 1188 625 1173 623 1173 621 1173 619 1173 547 1184 548 1228"/></Shape>
 	    <String CONTENT="ſionem."
                     HPOS="547"
                     VPOS="1173"
@@ -435,7 +435,7 @@
                     VPOS="1237"
                     WIDTH="823"
                     HEIGHT="71">
-            <Shape><Polygon POINTS="599 1291 599 1308 1419 1295 1421 1282 1417 1248 1366 1237 1365 1237 1239 1248 1225 1238 1223 1238 1221 1238 1097 1238 1096 1238 1094 1238 1065 1251 974 1251 926 1240 925 1240 757 1253 610 1244 608 1244 607 1244 605 1244 605 1246 598 1251 599 1291"/></Shape>
+            <Shape><Polygon POINTS="599 1308 1419 1295 1421 1282 1417 1248 1366 1237 1365 1237 1239 1248 1225 1238 1223 1238 1221 1238 1097 1238 1096 1238 1094 1238 1065 1251 974 1251 926 1240 925 1240 757 1253 610 1244 608 1244 607 1244 605 1244 605 1246 598 1251 599 1291"/></Shape>
 	    <String CONTENT="££££££££££ eſt cum ſuperioris doctrinæ confir¬"
                     HPOS="598"
                     VPOS="1237"
@@ -640,16 +640,6 @@
                     HEIGHT="80"></String>
           </TextLine>
 
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="543"
-                   VPOS="1260"
-                   WIDTH="43"
-                   HEIGHT="1"
-                   ID="eSc_textblock_fc91f965"
-                   >
-          <Shape><Polygon POINTS="586 1261 543 1261 543 1260 586 1260"/></Shape>
           
         </TextBlock>
         
