@@ -33,62 +33,6 @@
                    TAGREFS="BT1693">
           <Shape><Polygon POINTS="480 162 482 195 526 196 522 159"/></Shape>
           
-        </TextBlock>
-        
-        <TextBlock HPOS="626"
-                   VPOS="147"
-                   WIDTH="615"
-                   HEIGHT="48"
-                   ID="eSc_textblock_254f3a87"
-                   TAGREFS="BT1690">
-          <Shape><Polygon POINTS="626 147 626 195 1241 193 1241 147"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="477"
-                   VPOS="203"
-                   WIDTH="878"
-                   HEIGHT="497"
-                   ID="eSc_textblock_c8ba2adb"
-                   TAGREFS="BT1688">
-          <Shape><Polygon POINTS="1355 688 477 700 477 207 1163 203 1164 237 1355 237"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="491"
-                   VPOS="708"
-                   WIDTH="887"
-                   HEIGHT="168"
-                   ID="eSc_textblock_f49f1a30"
-                   TAGREFS="BT1688">
-          <Shape><Polygon POINTS="1378 708 1378 815 1263 815 1263 859 1260 859 1260 876 537 876 537 874 491 874 491 765 529 765 529 708"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="465"
-                   VPOS="882"
-                   WIDTH="904"
-                   HEIGHT="929"
-                   ID="eSc_textblock_319c559d"
-                   TAGREFS="BT1688">
-          <Shape><Polygon POINTS="1369 884 1365 1811 465 1811 474 937 537 937 537 882"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="1228"
-                   VPOS="1819"
-                   WIDTH="137"
-                   HEIGHT="27"
-                   ID="eSc_textblock_afb64cda"
-                   TAGREFS="BT1689">
-          <Shape><Polygon POINTS="1241 1820 1228 1846 1365 1845 1351 1819"/></Shape>
-          
-        </TextBlock>
-        
-
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
           
           <TextLine ID="eSc_line_d7bcc7b0"
                     TAGREFS="LT648"
@@ -106,6 +50,16 @@
           </TextLine>
 
           
+        </TextBlock>
+        
+        <TextBlock HPOS="626"
+                   VPOS="147"
+                   WIDTH="615"
+                   HEIGHT="48"
+                   ID="eSc_textblock_254f3a87"
+                   TAGREFS="BT1690">
+          <Shape><Polygon POINTS="626 147 626 195 1241 193 1241 147"/></Shape>
+          
           
           <TextLine ID="eSc_line_7b078984"
                     TAGREFS="LT649"
@@ -122,6 +76,16 @@
                     HEIGHT="58"></String>
           </TextLine>
 
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="475"
+                   VPOS="199"
+                   WIDTH="893"
+                   HEIGHT="1617"
+                   ID="eSc_textblock_632f7586"
+                   TAGREFS="BT1688">
+          <Shape><Polygon POINTS="480 210 475 1816 1368 1796 1353 199"/></Shape>
           
           
           <TextLine ID="eSc_line_216f4449"
@@ -149,7 +113,7 @@
                     WIDTH="869"
                     HEIGHT="56">
             <Shape><Polygon POINTS="1337 256 1319 252 1308 248 483 245 485 288 485 297 1348 301 1352 285 1348 256 1337 256"/></Shape>
-	    <String CONTENT="Vocat autem Patrem ſeruatorem vti Tit Lverſ.3"
+	    <String CONTENT="Vocat autem Patrem ſeruatorem vti Tit 1.verſ.3"
                     HPOS="483"
                     VPOS="245"
                     WIDTH="869"
@@ -489,7 +453,7 @@
                     WIDTH="823"
                     HEIGHT="73">
             <Shape><Polygon POINTS="1059 1258 1041 1258 1036 1258 1014 1268 1005 1258 988 1258 965 1266 956 1258 950 1258 932 1258 914 1258 896 1258 879 1258 857 1268 832 1258 823 1258 805 1258 803 1258 783 1269 608 1258 605 1258 587 1258 568 1258 550 1258 543 1258 532 1269 534 1306 534 1315 803 1324 805 1324 807 1324 837 1315 845 1313 876 1315 1010 1322 1012 1322 1354 1311 1355 1300 1352 1268 1225 1251 1223 1251 1221 1251 1219 1251 1219 1253 1206 1264 1197 1257 1196 1257 1194 1257 1192 1257 1077 1266 1065 1258 1059 1258"/></Shape>
-	    <String CONTENT="Sic Titum appellat Filium Tit. 1.V5 &amp; Corin¬"
+	    <String CONTENT="Sic Titum appellat Filium Tit. 1.V3 &amp; Corin¬"
                     HPOS="532"
                     VPOS="1251"
                     WIDTH="823"
@@ -667,6 +631,16 @@
           </TextLine>
 
           
+        </TextBlock>
+        
+        <TextBlock HPOS="1228"
+                   VPOS="1819"
+                   WIDTH="137"
+                   HEIGHT="27"
+                   ID="eSc_textblock_afb64cda"
+                   TAGREFS="BT1689">
+          <Shape><Polygon POINTS="1241 1820 1228 1846 1365 1845 1351 1819"/></Shape>
+          
           
           <TextLine ID="eSc_line_070b9207"
                     TAGREFS="LT648"
@@ -685,6 +659,8 @@
 
           
         </TextBlock>
+        
+
         
       </PrintSpace>
     </Page>
