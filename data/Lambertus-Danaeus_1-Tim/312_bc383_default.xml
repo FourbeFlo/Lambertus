@@ -36,17 +36,17 @@
           
           <TextLine ID="eSc_line_4cc36423"
                     TAGREFS="LT649"
-                    BASELINE="378 174 645 178" 
-                    HPOS="374"
-                    VPOS="125"
-                    WIDTH="269"
-                    HEIGHT="63">
-            <Shape><Polygon POINTS="594 141 576 139 558 139 539 138 521 138 503 136 487 136 485 136 467 134 448 132 447 132 434 136 405 130 394 130 392 127 376 125 376 172 374 188 641 188 643 176 630 143 612 143"/></Shape>
+                    BASELINE="392 173 645 178" 
+                    HPOS="388"
+                    VPOS="130"
+                    WIDTH="255"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="608 141 590 141 572 139 554 139 536 138 518 138 499 136 490 134 487 136 483 134 481 134 463 134 447 132 434 136 416 130 408 130 390 130 390 172 388 188 641 187 643 176 627 143 608 141"/></Shape>
 	    <String CONTENT="CAPVT V."
-                    HPOS="374"
-                    VPOS="125"
-                    WIDTH="269"
-                    HEIGHT="63"></String>
+                    HPOS="388"
+                    VPOS="130"
+                    WIDTH="255"
+                    HEIGHT="58"></String>
           </TextLine>
 
           
@@ -634,12 +634,12 @@
         </TextBlock>
         
         <TextBlock HPOS="844"
-                   VPOS="1772"
+                   VPOS="1769"
                    WIDTH="85"
-                   HEIGHT="46"
+                   HEIGHT="49"
                    ID="eSc_textblock_2bc7129b"
                    TAGREFS="BT1689">
-          <Shape><Polygon POINTS="929 1818 925 1772 846 1772 844 1811"/></Shape>
+          <Shape><Polygon POINTS="929 1818 919 1769 846 1772 844 1811"/></Shape>
           
           
           <TextLine ID="eSc_line_f21dd686"
