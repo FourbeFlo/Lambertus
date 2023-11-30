@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT1686" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT1687" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1688" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1689" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1690" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/>
+    <OtherTag ID="BT1686" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT1687" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1688" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1689" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1690" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1693" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
     <OtherTag ID="LT648" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT649" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT650" LABEL="CustomLine : BiblicalText" DESCRIPTION="line type CustomLine : BiblicalText"/>
   </Tags>
   
@@ -149,13 +149,13 @@
           
           
           <TextLine ID="eSc_line_e939e36b"
-                    
+                    TAGREFS="LT649"
                     BASELINE="240 501 870 501" 
                     HPOS="239"
                     VPOS="455"
                     WIDTH="629"
                     HEIGHT="80">
-            <Shape><Polygon POINTS="239 499 239 521 319 521 323 523 338 534 339 534 341 534 343 534 443 530 445 530 447 530 447 528 450 525 456 521 527 521 536 526 547 534 548 534 550 534 552 534 554 534 572 528 585 525 652 530 710 534 712 534 714 534 716 534 716 532 717 532 728 521 768 532 774 534 776 534 777 535 868 535 868 499 867 468 645 468 637 466 603 455 601 455 599 455 554 466 545 468 538 466 508 455 507 455 505 455 503 455 483 466 481 468 478 466 463 455 461 455 459 455 458 455 456 455 423 466 416 468 412 466 398 455 396 455 394 455 392 455 239 465 239 499"/></Shape>
+            <Shape><Polygon POINTS="239 521 319 521 323 523 338 534 339 534 341 534 343 534 443 530 445 530 447 530 447 528 450 525 456 521 527 521 536 526 547 534 548 534 550 534 552 534 554 534 572 528 585 525 652 530 710 534 712 534 714 534 716 534 716 532 717 532 728 521 768 532 774 534 776 534 777 535 868 535 868 499 867 468 645 468 637 466 603 455 601 455 599 455 554 466 545 468 538 466 508 455 507 455 505 455 503 455 483 466 481 468 478 466 463 455 461 455 459 455 458 455 456 455 423 466 416 468 412 466 398 455 396 455 394 455 392 455 239 465 239 499"/></Shape>
 	    <String CONTENT="Chriſti glorie aſſertori in Hol"
                     HPOS="239"
                     VPOS="455"
