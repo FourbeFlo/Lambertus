@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT1686" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT1687" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1688" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1689" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1690" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/>
+    <OtherTag ID="BT1686" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT1687" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1688" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1689" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1690" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1693" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
     <OtherTag ID="LT648" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT649" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT650" LABEL="CustomLine : BiblicalText" DESCRIPTION="line type CustomLine : BiblicalText"/>
   </Tags>
   
@@ -25,39 +25,13 @@
                   WIDTH="1505"
                   HEIGHT="2180">
         
-        <TextBlock HPOS="494.0"
-                   VPOS="239.0"
-                   WIDTH="892.0"
-                   HEIGHT="1603.0"
-                   ID="eSc_textblock_412ff4d2"
-                   TAGREFS="BT1688">
-          <Shape><Polygon POINTS="1386 1778 1357 1814 1249 1827 502 1842 494 268 714 245 1067 239 1357 254 1386 1649"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="1250.0"
-                   VPOS="1825.0"
-                   WIDTH="123.0"
-                   HEIGHT="61.0"
-                   ID="eSc_textblock_e5919231"
-                   TAGREFS="BT1689">
-          <Shape><Polygon POINTS="1250 1881 1261 1837 1287 1834 1366 1825 1373 1886"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="738.0"
-                   VPOS="182.0"
-                   WIDTH="360.0"
-                   HEIGHT="40.0"
-                   ID="eSc_textblock_9fc6e3b3"
+        <TextBlock HPOS="739"
+                   VPOS="171"
+                   WIDTH="360"
+                   HEIGHT="55"
+                   ID="eSc_textblock_e2fb61cb"
                    TAGREFS="BT1690">
-          <Shape><Polygon POINTS="738 182 742 222 1098 218 1098 182"/></Shape>
-          
-        </TextBlock>
-        
-
-        
-        <TextBlock ID="eSc_dummyblock_">
+          <Shape><Polygon POINTS="739 171 739 226 1099 226 1099 171"/></Shape>
           
           
           <TextLine ID="eSc_line_1a61e01f"
@@ -75,6 +49,16 @@
                     HEIGHT="52"></String>
           </TextLine>
 
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="490"
+                   VPOS="232"
+                   WIDTH="877"
+                   HEIGHT="1608"
+                   ID="eSc_textblock_b7b112b1"
+                   TAGREFS="BT1688">
+          <Shape><Polygon POINTS="490 250 501 1840 1367 1827 1367 232"/></Shape>
           
           
           <TextLine ID="eSc_line_7ba5de7c"
@@ -552,6 +536,16 @@
           </TextLine>
 
           
+        </TextBlock>
+        
+        <TextBlock HPOS="1273"
+                   VPOS="1830"
+                   WIDTH="99"
+                   HEIGHT="59"
+                   ID="eSc_textblock_76e261b6"
+                   TAGREFS="BT1689">
+          <Shape><Polygon POINTS="1273 1889 1273 1830 1372 1830 1361 1886"/></Shape>
+          
           
           <TextLine ID="eSc_line_325c1678"
                     TAGREFS="LT648"
@@ -570,6 +564,8 @@
 
           
         </TextBlock>
+        
+
         
       </PrintSpace>
     </Page>
