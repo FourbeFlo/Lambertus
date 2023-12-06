@@ -23,7 +23,7 @@ characters:
   - s
   - p
   - ','
-  - £
+  - ᚠ
   - q
   - .
   - h
@@ -82,6 +82,7 @@ characters:
   - '|'
   - Æ
   - '0'
+  - £
   - '!'
   - Z
   mode: NFD
@@ -109,7 +110,7 @@ title: Lambertus
 transcription-guidelines: Our data follow SegmOnto segmentation standards (https://segmonto.github.io).
 url: https://github.com/FourbeFlo/Lambertus
 volume:
-- count: 15172
+- count: 15168
   metric: characters
 - count: 13
   metric: files
