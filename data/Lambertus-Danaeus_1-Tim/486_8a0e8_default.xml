@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT1686" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT1687" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1688" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1689" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1690" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1693" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="BT1687" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1688" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1689" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1690" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1693" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
     <OtherTag ID="LT648" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT649" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT650" LABEL="CustomLine : BiblicalText" DESCRIPTION="line type CustomLine : BiblicalText"/>
   </Tags>
   
@@ -130,7 +130,7 @@
                     WIDTH="863"
                     HEIGHT="65">
             <Shape><Polygon POINTS="883 276 865 276 847 276 828 276 810 276 792 276 777 276 661 279 601 281 592 279 578 276 574 276 556 276 541 276 521 279 492 283 83 276 85 323 89 341 99 332 945 332 946 319 943 283 912 276 901 276"/></Shape>
-	    <String CONTENT="Lucianus in Dialogo qui Simon vel £££££££££"
+	    <String CONTENT="Lucianus in Dialogo qui Simon vel ᚠᚠᚠᚠᚠᚠᚠᚠᚠ"
                     HPOS="83"
                     VPOS="276"
                     WIDTH="863"
@@ -453,7 +453,7 @@
                     WIDTH="827"
                     HEIGHT="75">
             <Shape><Polygon POINTS="127 1331 125 1344 130 1349 130 1351 132 1351 134 1351 136 1351 594 1347 619 1357 621 1357 623 1357 950 1349 952 1340 952 1302 919 1289 917 1289 916 1289 812 1300 772 1288 770 1288 768 1288 767 1288 734 1300 732 1300 717 1288 716 1288 714 1288 712 1288 710 1288 676 1298 672 1300 670 1298 659 1289 659 1288 657 1288 656 1288 608 1286 548 1286 547 1286 545 1286 543 1286 543 1288 534 1297 530 1298 403 1298 399 1293 394 1289 394 1288 392 1288 390 1288 388 1288 387 1288 376 1293 368 1297 361 1293 348 1284 347 1284 345 1284 343 1284 299 1291 279 1295 259 1291 218 1282 216 1282 214 1282 212 1282 212 1284 205 1289 198 1295 127 1289 127 1331"/></Shape>
-	    <String CONTENT="£££££££££ eſt. A generali enim præceptione,"
+	    <String CONTENT="ᚠᚠᚠᚠᚠᚠᚠᚠᚠ eſt. A generali enim præceptione,"
                     HPOS="125"
                     VPOS="1282"
                     WIDTH="827"

@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT1686" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT1687" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1688" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1689" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1690" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1693" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="BT1687" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1688" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1689" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1690" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1693" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
     <OtherTag ID="LT648" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT649" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT650" LABEL="CustomLine : BiblicalText" DESCRIPTION="line type CustomLine : BiblicalText"/>
   </Tags>
   
@@ -47,33 +47,6 @@
                     VPOS="141"
                     WIDTH="87"
                     HEIGHT="67"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="763"
-                   VPOS="130"
-                   WIDTH="563"
-                   HEIGHT="57"
-                   ID="eSc_textblock_5fd5cadc"
-                   TAGREFS="BT1690">
-          <Shape><Polygon POINTS="1206 130 1326 138 1326 187 763 187 763 141"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_f7e7abf8"
-                    TAGREFS="LT649"
-                    BASELINE="775 185 1323 176" 
-                    HPOS="772"
-                    VPOS="110"
-                    WIDTH="549"
-                    HEIGHT="86">
-            <Shape><Polygon POINTS="774 190 859 190 861 190 870 196 883 196 894 196 914 190 925 188 1317 188 1321 174 1317 119 1223 110 1221 110 1219 110 1217 110 1205 121 1203 123 1083 125 1081 123 1061 114 1059 114 990 114 988 114 887 128 879 128 876 128 841 118 839 118 837 118 836 118 812 128 788 118 787 118 785 118 783 118 781 118 772 123 774 183"/></Shape>
-	    <String CONTENT="AD I. PAVL. AD TIM."
-                    HPOS="772"
-                    VPOS="110"
-                    WIDTH="549"
-                    HEIGHT="86"></String>
           </TextLine>
 
           
@@ -293,6 +266,33 @@
           
         </TextBlock>
         
+        <TextBlock HPOS="763"
+                   VPOS="130"
+                   WIDTH="563"
+                   HEIGHT="57"
+                   ID="eSc_textblock_5fd5cadc"
+                   TAGREFS="BT1690">
+          <Shape><Polygon POINTS="1206 130 1326 138 1326 187 763 187 763 141"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_f7e7abf8"
+                    TAGREFS="LT649"
+                    BASELINE="775 185 1323 176" 
+                    HPOS="772"
+                    VPOS="110"
+                    WIDTH="549"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="774 190 859 190 861 190 870 196 883 196 894 196 914 190 925 188 1317 188 1321 174 1317 119 1223 110 1221 110 1219 110 1217 110 1205 121 1203 123 1083 125 1081 123 1061 114 1059 114 990 114 988 114 887 128 879 128 876 128 841 118 839 118 837 118 836 118 812 128 788 118 787 118 785 118 783 118 781 118 772 123 774 183"/></Shape>
+	    <String CONTENT="AD I. PAVL. AD TIM."
+                    HPOS="772"
+                    VPOS="110"
+                    WIDTH="549"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
         <TextBlock HPOS="588"
                    VPOS="821"
                    WIDTH="878"
@@ -405,7 +405,7 @@
                     WIDTH="827"
                     HEIGHT="69">
             <Shape><Polygon POINTS="1439 1160 1421 1159 1403 1159 1385 1159 1366 1157 1348 1157 1252 1157 1250 1155 1237 1151 1221 1151 1203 1151 1185 1149 1166 1149 1148 1148 1130 1148 1119 1148 1112 1155 1096 1144 1094 1144 1092 1144 1090 1144 1088 1144 1056 1155 1050 1157 1045 1155 1021 1146 1019 1146 1017 1146 1016 1146 994 1155 992 1155 972 1146 970 1146 874 1146 872 1146 870 1146 868 1146 868 1148 861 1155 857 1157 848 1155 810 1146 808 1146 768 1155 754 1157 639 1155 641 1199 641 1213 1466 1209 1466 1195 1463 1160 1457 1160"/></Shape>
-	    <String CONTENT="£££££££££££££, ſiue £££££ Proſpicit enim viduis"
+	    <String CONTENT="ᚠᚠᚠᚠᚠᚠᚠᚠᚠᚠᚠᚠᚠ, ſiue ᚠᚠᚠᚠᚠ. Proſpicit enim viduis"
                     HPOS="639"
                     VPOS="1144"
                     WIDTH="827"
@@ -524,7 +524,7 @@
                     WIDTH="816"
                     HEIGHT="67">
             <Shape><Polygon POINTS="977 1491 974 1491 972 1493 957 1502 890 1502 876 1491 868 1491 854 1491 796 1500 785 1493 777 1493 765 1493 754 1500 747 1493 741 1493 723 1493 701 1500 667 1493 650 1493 652 1540 652 1547 1463 1553 1466 1536 1461 1498 1348 1498 1339 1496 1314 1487 1312 1487 1310 1487 1266 1495 1248 1498 1239 1495 1215 1486 1214 1486 1116 1486 1114 1486 1079 1493 1046 1502 1006 1502 992 1493 990 1491 977 1491"/></Shape>
-	    <String CONTENT="Vox igitur ££££££££££££ ad liberos viduarum"
+	    <String CONTENT="Vox igitur ᚠᚠᚠᚠᚠᚠᚠᚠᚠᚠᚠᚠ ad liberos viduarum"
                     HPOS="650"
                     VPOS="1486"
                     WIDTH="816"

@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT1686" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT1687" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1688" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1689" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1690" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1693" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="BT1687" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1688" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1689" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1690" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1693" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
     <OtherTag ID="LT648" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT649" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT650" LABEL="CustomLine : BiblicalText" DESCRIPTION="line type CustomLine : BiblicalText"/>
   </Tags>
   
@@ -273,7 +273,7 @@
                     WIDTH="859"
                     HEIGHT="80">
             <Shape><Polygon POINTS="498 964 498 984 1355 968 1355 948 1354 917 1326 904 1325 904 1323 904 1321 904 1319 904 1301 915 1170 906 1168 906 1166 906 1165 906 1165 908 1163 908 1157 915 1134 908 1132 908 1130 908 1065 921 965 913 963 913 792 924 748 915 747 915 677 926 592 917 590 917 588 917 565 930 536 919 534 919 532 919 530 919 501 928 496 941"/></Shape>
-	    <String CONTENT="ab ordine  ££££££ nominatur. Quo magis"
+	    <String CONTENT="ab ordine ᚠᚠᚠᚠᚠᚠ nominatur. Quo magis"
                     HPOS="496"
                     VPOS="904"
                     WIDTH="859"
@@ -375,7 +375,7 @@
                     WIDTH="864"
                     HEIGHT="82">
             <Shape><Polygon POINTS="501 1306 501 1324 1361 1309 1363 1286 1361 1255 1323 1242 1321 1242 1319 1242 1317 1242 1281 1255 1261 1246 1259 1246 1257 1246 1208 1257 1201 1258 1096 1258 1090 1257 1066 1248 1065 1248 1063 1248 1061 1248 1039 1258 1032 1260 1005 1258 936 1251 934 1251 865 1258 810 1266 797 1260 787 1255 785 1255 783 1255 781 1255 761 1260 747 1264 732 1260 716 1257 714 1257 712 1257 710 1257 708 1257 705 1260 696 1268 657 1262 636 1258 592 1258 590 1258 588 1258 587 1258 583 1262 570 1271 499 1264 501 1306"/></Shape>
-	    <String CONTENT="homines ££££££ &amp; £££££££££, tanquã mõ¬"
+	    <String CONTENT="homines ᚠᚠᚠᚠᚠᚠᚠ &amp; ᚠᚠᚠᚠᚠᚠᚠᚠᚠ tanquã mõ¬"
                     HPOS="499"
                     VPOS="1242"
                     WIDTH="864"
@@ -392,7 +392,7 @@
                     WIDTH="854"
                     HEIGHT="80">
             <Shape><Polygon POINTS="503 1362 503 1378 670 1386 672 1386 674 1386 676 1386 687 1377 725 1384 727 1384 767 1375 770 1375 781 1375 887 1380 888 1380 1355 1364 1355 1344 1350 1306 1096 1317 1061 1313 1012 1308 1010 1308 952 1317 923 1320 879 1318 772 1313 770 1313 768 1313 736 1322 728 1324 723 1322 685 1315 683 1315 681 1315 679 1315 668 1324 667 1326 659 1324 612 1317 610 1317 608 1317 585 1327 583 1327 578 1327 519 1318 518 1318 516 1318 514 1318 501 1324 503 1362"/></Shape>
-	    <String CONTENT="ſtra, &amp; generis humani ££££££££, iam pri¬"
+	    <String CONTENT="ſtra, &amp; generis humani ᚠᚠᚠᚠᚠᚠᚠᚠ iam pri¬"
                     HPOS="501"
                     VPOS="1306"
                     WIDTH="854"
