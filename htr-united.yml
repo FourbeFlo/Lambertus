@@ -120,7 +120,7 @@ title: Lambertus
 transcription-guidelines: Our data follow SegmOnto segmentation standards (https://segmonto.github.io).
 url: https://github.com/FourbeFlo/Lambertus
 volume:
-- count: 27291
+- count: 27283
   metric: characters
 - count: 24
   metric: files
