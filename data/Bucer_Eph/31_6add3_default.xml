@@ -25,13 +25,40 @@
                   WIDTH="1128"
                   HEIGHT="1876">
         
-        <TextBlock HPOS="147"
-                   VPOS="209"
-                   WIDTH="42"
-                   HEIGHT="43"
-                   ID="eSc_textblock_8446c34b"
-                   >
-          <Shape><Polygon POINTS="147 209 147 252 189 252 189 209"/></Shape>
+        <TextBlock HPOS="338"
+                   VPOS="95"
+                   WIDTH="655"
+                   HEIGHT="82"
+                   ID="eSc_textblock_85cd29e5"
+                   TAGREFS="BT1722">
+          <Shape><Polygon POINTS="353 95 338 170 993 177 985 114"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_64585a94"
+                    TAGREFS="LT667"
+                    BASELINE="362 156 966 165" 
+                    HPOS="361"
+                    VPOS="112"
+                    WIDTH="605"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="362 112 362 156 361 164 378 171 380 171 381 171 852 171 865 179 866 179 868 179 869 179 965 171 966 165 965 125 959 118"/></Shape>
+	    <String CONTENT="D. PAVLI AD EPHESIOS"
+                    HPOS="361"
+                    VPOS="112"
+                    WIDTH="605"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="116"
+                   VPOS="198"
+                   WIDTH="90"
+                   HEIGHT="81"
+                   ID="eSc_textblock_e91e1f45"
+                   TAGREFS="BT1721">
+          <Shape><Polygon POINTS="116 198 116 279 206 279 206 198"/></Shape>
           
           
           <TextLine ID="eSc_line_c56ab005"
@@ -52,30 +79,13 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="237"
-                   VPOS="174"
-                   WIDTH="859"
-                   HEIGHT="518"
-                   ID="eSc_textblock_625c58f9"
+        <TextBlock HPOS="227"
+                   VPOS="175"
+                   WIDTH="888"
+                   HEIGHT="524"
+                   ID="eSc_textblock_f2dfeb0c"
                    TAGREFS="BT1718">
-          <Shape><Polygon POINTS="1040 362 946 500 984 525 990 579 1021 606 1021 680 835 692 319 667 319 562 369 456 330 392 250 354 237 231 249 174 1022 174 1096 187 1096 329"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_64585a94"
-                    TAGREFS="LT667"
-                    BASELINE="362 156 966 165" 
-                    HPOS="361"
-                    VPOS="112"
-                    WIDTH="605"
-                    HEIGHT="67">
-            <Shape><Polygon POINTS="362 112 362 156 361 164 378 171 380 171 381 171 852 171 865 179 866 179 868 179 869 179 965 171 966 165 965 125 959 118"/></Shape>
-	    <String CONTENT="D. PAVLI AD EPHESIOS"
-                    HPOS="361"
-                    VPOS="112"
-                    WIDTH="605"
-                    HEIGHT="67"></String>
-          </TextLine>
-
+          <Shape><Polygon POINTS="231 175 227 699 1109 699 1115 187"/></Shape>
           
           
           <TextLine ID="eSc_line_89445bf5"
@@ -170,7 +180,7 @@
                     VPOS="423"
                     WIDTH="512"
                     HEIGHT="67">
-            <Shape><Polygon POINTS="413 464 411 475 919 490 923 473 921 433 413 423 413 464"/></Shape>
+            <Shape><Polygon POINTS="411 475 919 490 923 473 921 433 413 423 413 464"/></Shape>
 	    <String CONTENT="Chriſtum cum integritate."
                     HPOS="411"
                     VPOS="423"
@@ -229,16 +239,6 @@
                     HEIGHT="81"></String>
           </TextLine>
 
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="358"
-                   VPOS="117"
-                   WIDTH="607"
-                   HEIGHT="52"
-                   ID="eSc_textblock_d601c337"
-                   TAGREFS="BT1722">
-          <Shape><Polygon POINTS="358 117 364 161 964 169 965 124"/></Shape>
           
         </TextBlock>
         
