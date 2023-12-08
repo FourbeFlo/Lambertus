@@ -25,7 +25,7 @@ These include lettering that has been defined solely as [GraphicZone] without as
 |-----------------------|------------------------------------------------------------|
 |Lambertus-Danaeus_1-Tim| 4_6c6d2_default.xml                                                           |
 |                       |                                                            |
-|	Bucer_Eph             |204_89ed9_default.xml;90_fee98_default.xml |
+|	Bucer_Eph             |204_89ed9_default.xml ; 90_fee98_default.xml                |
 
 
 
