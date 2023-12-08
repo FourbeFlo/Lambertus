@@ -18,82 +18,82 @@ characters:
   - m
   - ſ
   - c
-  - s
   - d
+  - s
   - l
   - p
   - ','
   - q
   - b
-  - h
   - .
-  - ᚠ
-  - g
+  - h
   - f
+  - g
   - ¬
   - '&'
+  - ᚠ
   - æ
   - v
   - ̃
   - D
+  - E
   - P
   - x
   - I
-  - E
-  - C
-  - ̀
   - A
+  - C
   - V
-  - T
-  - j
+  - ̀
   - S
+  - T
   - M
-  - ':'
-  - N
+  - j
   - O
   - R
-  - '-'
+  - ':'
+  - N
   - H
   - Q
-  - '1'
-  - ß
-  - '2'
-  - '3'
-  - y
+  - '-'
   - L
+  - '1'
+  - '2'
+  - ß
+  - y
+  - '3'
   - ;
   - F
-  - '4'
+  - )
   - B
-  - '5'
+  - '4'
   - 
+  - '5'
   - ̂
-  - G
   - '9'
-  - '6'
-  - ́
-  - '?'
-  - œ
+  - G
   - '8'
   - (
-  - )
+  - '6'
+  - ́
+  - ꝙ
+  - '?'
+  - œ
   - '7'
   - '0'
   - "'"
   - ꝫ
   - α
-  - X
   - ¶
-  - '|'
   - z
+  - '!'
+  - X
+  - '|'
   - ι
-  - ꝙ
   - λ
   - ε
   - '"'
   - Æ
   - £
-  - '!'
   - Z
   mode: NFD
 description: Data for data for Paul’s exegesis.
@@ -120,11 +120,11 @@ title: Lambertus
 transcription-guidelines: Our data follow SegmOnto segmentation standards (https://segmonto.github.io).
 url: https://github.com/FourbeFlo/Lambertus
 volume:
-- count: 27287
+- count: 30651
   metric: characters
-- count: 24
+- count: 25
   metric: files
-- count: 794
+- count: 852
   metric: lines
-- count: 114
+- count: 124
   metric: regions
