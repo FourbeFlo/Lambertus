@@ -19,7 +19,7 @@ The pilcrow was transcribed by  ¶
 | Pilcrow | ¶             | ![](images/piedDeMouche.jpg | width=100) | [e-rara](https://doi.org/10.3931/e-rara-6338), p. 11 |
 
 ## Segmentation 
-Using the SegmOnto segmentation standards,Certain elements are considered to be faulty when the xml file is checked, but these errors have no consequences for the experiment.
+Using the SegmOnto segmentation standards,certain elements are considered to be faulty when the xml file is checked, but these errors have no consequences for the experiment.
 These include lettering that has been defined solely as [GraphicZone] without assigning lines. 
 |identifier             |Concerned data|
 |-----------------------|------------------------------------------------------------|
