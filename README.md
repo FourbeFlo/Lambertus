@@ -18,6 +18,17 @@ The pilcrow was transcribed by  ¶
 |---------|---------------|------------------------------------------|------------------------------------------------------|
 | Pilcrow | ¶             | ![](images/piedDeMouche.jpg | width=100) | [e-rara](https://doi.org/10.3931/e-rara-6338), p. 11 |
 
+## Segmentation 
+Using the SegmOnto segmentation standards,Certain elements are considered to be faulty when the xml file is checked, but these errors have no consequences for the experiment.
+These include lettering that has been defined solely as [GraphicZone] without assigning lines. 
+|identifier             |Concerned data|
+|-----------------------|------------------------------------------------------------|
+|Lambertus-Danaeus_1-Tim| 4_6c6d2_default.xml                                                           |
+|                       |                                                            |
+|	Bucer_Eph             |204_89ed9_default.xml;90_fee98_default.xml |
+
+
+
 
 ## Licence 
 The transcriptions are [CC-BY](https://creativecommons.org/licenses/by/4.0), and the images follow the rules of various digital libraries:
