@@ -946,7 +946,7 @@
                     WIDTH="46"
                     HEIGHT="112">
             <Shape><Polygon POINTS="1982 378 1979 424 2022 418 2025 381 2025 318 2008 312 1985 312"/></Shape>
-	    <String CONTENT="2"
+	    <String CONTENT="A"
                     HPOS="1979"
                     VPOS="312"
                     WIDTH="46"
@@ -973,7 +973,7 @@
                     WIDTH="40"
                     HEIGHT="103">
             <Shape><Polygon POINTS="2018 912 2002 912 1985 912 1985 966 1985 1005 2022 1015 2025 966 2022 912 2018 912"/></Shape>
-	    <String CONTENT="9"
+	    <String CONTENT="B"
                     HPOS="1985"
                     VPOS="912"
                     WIDTH="40"
@@ -1000,7 +1000,7 @@
                     WIDTH="26"
                     HEIGHT="153">
             <Shape><Polygon POINTS="1992 1650 2018 1650 2018 1616 2012 1497 1992 1507 1992 1616"/></Shape>
-	    <String CONTENT="8"
+	    <String CONTENT="C"
                     HPOS="1992"
                     VPOS="1497"
                     WIDTH="26"
@@ -1027,7 +1027,7 @@
                     WIDTH="26"
                     HEIGHT="186">
             <Shape><Polygon POINTS="2015 2294 2015 2247 2015 2124 1992 2114 1989 2247 1989 2300"/></Shape>
-	    <String CONTENT="8"
+	    <String CONTENT="D"
                     HPOS="1989"
                     VPOS="2114"
                     WIDTH="26"
@@ -1054,7 +1054,7 @@
                     WIDTH="19"
                     HEIGHT="119">
             <Shape><Polygon POINTS="1989 2835 1989 2875 1989 2951 2005 2954 2008 2875 2008 2835 1989 2835"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="E"
                     HPOS="1989"
                     VPOS="2835"
                     WIDTH="19"
