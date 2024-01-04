@@ -13,10 +13,12 @@ The data can be found at './data/**/*xml'. They are in ALTO format and follow Se
 We follow the transcription of S. Gabay et al. Additional characters had to be treated:
 
 The pilcrow was transcribed by  ¶
+the greek alphabet was transcribed by the rune for preventing any confusion with another sign.
 
-| Sign    | Transcription | image                                    | Reference                                            |
-|---------|---------------|------------------------------------------|------------------------------------------------------|
-| Pilcrow | ¶             | ![](images/piedDeMouche.jpg | width=100) | [e-rara](https://doi.org/10.3931/e-rara-6338), p. 11 |
+| Sign         | Transcription | image                                    | Reference                                            |
+|--------------|---------------|------------------------------------------|------------------------------------------------------|
+| Pilcrow      | ¶             | ![](images/piedDeMouche.jpg | width=100) | [e-rara](https://doi.org/10.3931/e-rara-6338), p. 11 |
+|Greek alphabet| ᚠ             |                                          |                                                      |             
 
 ## Segmentation 
 Using the SegmOnto segmentation standards,certain elements are considered to be faulty when the xml file is checked, but these errors have no consequences for the experiment.
