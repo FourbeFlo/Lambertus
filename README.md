@@ -17,8 +17,8 @@ We follow the transcription of S. Gabay et al. Additional characters had to be t
 
 | Sign         | Transcription | image                                                             | Reference                                            |
 |--------------|---------------|-------------------------------------------------------------------|------------------------------------------------------|
-| Pilcrow      | ¶             | ![image de pied de mouche](images/piedDeMouche_1.jpg)             | [e-rara](https://doi.org/10.3931/e-rara-6338), p. 11 |
-|Greek alphabet| ᚠ             |                                                                   |                                                      |             
+| Pilcrow      | ¶             | ![Pilcrow](images/piedDeMouche_1.jpg)                             | [e-rara](https://doi.org/10.3931/e-rara-6338), p. 11 |
+|Greek alphabet| ᚠ             | ![greek alphabet](images/greek_alphabet.jpg)                      | [e-rara](https://doi.org/10.3931/e-rara-6338), p.283 |                                                    |             
 
 ## Segmentation 
 Using the SegmOnto segmentation standards,certain elements are considered to be faulty when the xml file is checked, but these errors have no consequences for the experiment.
