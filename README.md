@@ -15,10 +15,11 @@ We follow the transcription of S. Gabay et al. Additional characters had to be t
 - The pilcrow was transcribed by  ¶
 - The greek alphabet was transcribed by the rune "ᚠ" in order to prevent any confusion any confusion with another sign.
 
-| Sign         | Transcription | image                                                             | Reference                                            |
-|--------------|---------------|-------------------------------------------------------------------|------------------------------------------------------|
-| Pilcrow      | ¶             | ![Pilcrow](images/piedDeMouche_1.jpg)                             | [e-rara](https://doi.org/10.3931/e-rara-6338), p.11  |
-|Greek alphabet| ᚠ             | ![greek alphabet](images/greek_alphabet.jpg)                      | [e-rara](https://doi.org/10.3931/e-rara-6338), p.283 |                                                    |             
+| Sign           | Transcription | image                                                             | Reference                                            |
+|----------------|---------------|-------------------------------------------------------------------|------------------------------------------------------|
+| Pilcrow        | ¶             | ![Pilcrow](images/piedDeMouche_1.jpg)                             | [e-rara](https://doi.org/10.3931/e-rara-6338), p.11  |
+|Greek alphabet  | ᚠ             | ![greek alphabet](images/greek_alphabet.jpg)                      | [e-rara](https://doi.org/10.3931/e-rara-6338), p.283 | 
+|shaped semicolon|               |préciser l'élément                                                 |citer la bonne page de cremma                         |             
 
 ## Segmentation 
 Using the SegmOnto segmentation standards,certain elements are considered to be faulty when the xml file is checked, but these errors have no consequences for the experiment.
