@@ -13,7 +13,7 @@ The data can be found at './data/**/*xml'. They are in ALTO format and follow Se
 We follow the transcription of S. Gabay et al. Additional characters had to be treated:
 
 - The pilcrow was transcribed by  ¶
-- The greek alphabet was transcribed by the rune "ᚠ" for preventing any confusion with another sign.
+- The greek alphabet was transcribed by the rune "ᚠ" in order to prevent any confusion any confusion with another sign.
 
 | Sign         | Transcription | image                                                             | Reference                                            |
 |--------------|---------------|-------------------------------------------------------------------|------------------------------------------------------|
