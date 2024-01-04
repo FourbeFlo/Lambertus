@@ -17,7 +17,7 @@ We follow the transcription of S. Gabay et al. Additional characters had to be t
 
 | Sign         | Transcription | image                                                             | Reference                                            |
 |--------------|---------------|-------------------------------------------------------------------|------------------------------------------------------|
-| Pilcrow      | ¶             | ![image de pied de mouche](images/piedDeMouche_1.jpg | width=100) | [e-rara](https://doi.org/10.3931/e-rara-6338), p. 11 |
+| Pilcrow      | ¶             | ![image de pied de mouche](images/piedDeMouche_1.jpg)             | [e-rara](https://doi.org/10.3931/e-rara-6338), p. 11 |
 |Greek alphabet| ᚠ             |                                                                   |                                                      |             
 
 ## Segmentation 
