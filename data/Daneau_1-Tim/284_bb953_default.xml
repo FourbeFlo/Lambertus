@@ -113,7 +113,7 @@
                     WIDTH="819"
                     HEIGHT="77">
             <Shape><Polygon POINTS="930 256 870 263 810 252 799 250 797 250 790 250 745 259 596 248 592 248 574 248 556 247 538 247 519 247 501 247 496 247 474 252 325 250 307 243 301 243 283 243 265 243 252 241 230 245 192 241 192 241 174 241 156 239 138 239 119 239 119 283 118 292 934 316 937 305 936 259 930 256"/></Shape>
-	    <String CONTENT="Ratio huius præcepti hic multiplex affertur à"
+	    <String CONTENT="Ratio huius præcepti hîc multiplex affertur à"
                     HPOS="118"
                     VPOS="239"
                     WIDTH="819"
@@ -317,7 +317,7 @@
                     WIDTH="871"
                     HEIGHT="77">
             <Shape><Polygon POINTS="274 828 256 828 243 826 225 826 223 826 219 826 212 826 145 833 56 822 56 872 54 877 576 899 578 899 923 895 925 890 925 850 278 828 274 828"/></Shape>
-	    <String CONTENT="&amp; acceptum. Quod ex præ cepto Honora patrem"
+	    <String CONTENT="&amp; acceptum. Quod ex præcepto Honora patrem"
                     HPOS="54"
                     VPOS="822"
                     WIDTH="871"
@@ -351,7 +351,7 @@
                     WIDTH="871"
                     HEIGHT="69">
             <Shape><Polygon POINTS="908 941 890 941 872 941 854 939 836 939 817 939 805 937 747 937 745 937 743 935 54 930 54 968 52 977 58 982 58 984 59 984 61 984 63 984 238 979 245 979 919 999 923 984 921 941 908 941"/></Shape>
-	    <String CONTENT="Honora: non tantûm reuerentia quædam exter¬"
+	    <String CONTENT="Honora: non tantùm reuerentia quædam exter¬"
                     HPOS="52"
                     VPOS="930"
                     WIDTH="871"
@@ -504,7 +504,7 @@
                     WIDTH="873"
                     HEIGHT="80">
             <Shape><Polygon POINTS="590 1371 578 1371 572 1373 561 1377 525 1373 492 1369 481 1369 463 1367 445 1367 427 1367 425 1367 407 1371 396 1373 388 1371 376 1366 372 1366 354 1366 336 1366 328 1366 296 1369 287 1369 285 1369 276 1364 263 1364 245 1364 243 1364 221 1367 212 1369 210 1367 207 1362 205 1362 190 1362 179 1362 139 1366 132 1360 118 1360 99 1360 89 1360 45 1364 45 1407 43 1417 756 1440 757 1440 914 1433 916 1427 912 1380 681 1380 605 1378 603 1375 599 1371 590 1371"/></Shape>
-	    <String CONTENT="quium abiiciunt, &amp; officium ſuum, propter votſi"
+	    <String CONTENT="quium abiiciunt, &amp; officium ſuum, propter votũ"
                     HPOS="43"
                     VPOS="1360"
                     WIDTH="873"
