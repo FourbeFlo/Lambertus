@@ -25,6 +25,33 @@
                   WIDTH="6000"
                   HEIGHT="9420">
         
+        <TextBlock HPOS="1604"
+                   VPOS="476"
+                   WIDTH="465"
+                   HEIGHT="312"
+                   ID="eSc_textblock_24f98c4d"
+                   TAGREFS="BT1785">
+          <Shape><Polygon POINTS="1604 476 1604 788 2069 788 2069 476"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    TAGREFS="LT709"
+                    BASELINE="1664 732 1999 729" 
+                    HPOS="1641"
+                    VPOS="408"
+                    WIDTH="353"
+                    HEIGHT="369">
+            <Shape><Polygon POINTS="1657 777 1735 777 1814 777 1876 777 1986 761 1994 722 1963 408 1853 447 1641 423 1657 730"/></Shape>
+	    <String CONTENT="114"
+                    HPOS="1641"
+                    VPOS="408"
+                    WIDTH="353"
+                    HEIGHT="369"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
         <TextBlock HPOS="1546"
                    VPOS="817"
                    WIDTH="4230"
@@ -392,6 +419,33 @@
           
         </TextBlock>
         
+        <TextBlock HPOS="2134"
+                   VPOS="502"
+                   WIDTH="3466"
+                   HEIGHT="271"
+                   ID="eSc_textblock_f87895f9"
+                   TAGREFS="BT1786">
+          <Shape><Polygon POINTS="2134 502 2134 773 5600 773 5600 502"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_f9cefd0d"
+                    TAGREFS="LT710"
+                    BASELINE="2166 727 5518 696" 
+                    HPOS="2159"
+                    VPOS="494"
+                    WIDTH="3354"
+                    HEIGHT="314">
+            <Shape><Polygon POINTS="5214 494 5136 494 5057 494 4979 494 4900 494 4821 494 4743 494 4664 494 4586 494 4578 502 4531 494 4507 494 4429 494 4350 494 4272 494 4264 494 4256 502 4240 494 4193 494 4115 494 4036 494 4020 494 3824 533 3808 533 3793 533 3463 494 3408 494 3329 494 3251 494 3212 494 3149 533 2992 494 2937 494 2874 494 2803 541 2206 541 2159 722 2159 800 4649 808 4657 808 4664 808 4672 808 4727 769 4735 761 5513 753 5513 690 5497 525 5356 494 5293 494"/></Shape>
+	    <String CONTENT="COMMENT. IN EPIST."
+                    HPOS="2159"
+                    VPOS="494"
+                    WIDTH="3354"
+                    HEIGHT="314"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
         <TextBlock HPOS="4769"
                    VPOS="7934"
                    WIDTH="953"
@@ -419,65 +473,7 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="1604"
-                   VPOS="476"
-                   WIDTH="465"
-                   HEIGHT="312"
-                   ID="eSc_textblock_24f98c4d"
-                   TAGREFS="BT1785">
-          <Shape><Polygon POINTS="1604 476 1604 788 2069 788 2069 476"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="2134"
-                   VPOS="502"
-                   WIDTH="3466"
-                   HEIGHT="271"
-                   ID="eSc_textblock_f87895f9"
-                   TAGREFS="BT1786">
-          <Shape><Polygon POINTS="2134 502 2134 773 5600 773 5600 502"/></Shape>
-          
-        </TextBlock>
-        
 
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
-          
-          <TextLine ID="line_0"
-                    TAGREFS="LT709"
-                    BASELINE="1664 732 1999 729" 
-                    HPOS="1641"
-                    VPOS="408"
-                    WIDTH="353"
-                    HEIGHT="369">
-            <Shape><Polygon POINTS="1657 777 1735 777 1814 777 1876 777 1986 761 1994 722 1963 408 1853 447 1641 423 1657 730"/></Shape>
-	    <String CONTENT="114"
-                    HPOS="1641"
-                    VPOS="408"
-                    WIDTH="353"
-                    HEIGHT="369"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_f9cefd0d"
-                    TAGREFS="LT710"
-                    BASELINE="2166 727 5518 696" 
-                    HPOS="2159"
-                    VPOS="494"
-                    WIDTH="3354"
-                    HEIGHT="314">
-            <Shape><Polygon POINTS="5214 494 5136 494 5057 494 4979 494 4900 494 4821 494 4743 494 4664 494 4586 494 4578 502 4531 494 4507 494 4429 494 4350 494 4272 494 4264 494 4256 502 4240 494 4193 494 4115 494 4036 494 4020 494 3824 533 3808 533 3793 533 3463 494 3408 494 3329 494 3251 494 3212 494 3149 533 2992 494 2937 494 2874 494 2803 541 2206 541 2159 722 2159 800 4649 808 4657 808 4664 808 4672 808 4727 769 4735 761 5513 753 5513 690 5497 525 5356 494 5293 494"/></Shape>
-	    <String CONTENT="COMMENT. IN EPIST."
-                    HPOS="2159"
-                    VPOS="494"
-                    WIDTH="3354"
-                    HEIGHT="314"></String>
-          </TextLine>
-
-          
-        </TextBlock>
         
       </PrintSpace>
     </Page>
