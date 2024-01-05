@@ -37,8 +37,8 @@ characters:
   - E
   - v
   - D
-  - I
   - x
+  - I
   - ̀
   - C
   - A
@@ -60,8 +60,8 @@ characters:
   - '1'
   - L
   - ι
-  - ς
   - '2'
+  - ς
   - ν
   - '3'
   - ο
@@ -74,11 +74,11 @@ characters:
   - '5'
   - ̨
   - )
+  - '4'
   - κ
   - ε
   - F
   - B
-  - '4'
   - ρ
   - η
   - ͂
@@ -157,11 +157,11 @@ title: Lambertus
 transcription-guidelines: Our data follow SegmOnto segmentation standards (https://segmonto.github.io).
 url: https://github.com/FourbeFlo/Lambertus
 volume:
-- count: 38542
+- count: 38544
   metric: characters
 - count: 36
   metric: files
-- count: 1122
+- count: 1124
   metric: lines
-- count: 166
+- count: 167
   metric: regions
