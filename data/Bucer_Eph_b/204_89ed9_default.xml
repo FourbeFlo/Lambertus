@@ -69,7 +69,7 @@
                     WIDTH="58"
                     HEIGHT="75">
             <Shape><Polygon POINTS="874 131 874 143 898 154 899 154 901 154 929 148 929 129 926 84 871 79 874 131"/></Shape>
-	    <String CONTENT="105"
+	    <String CONTENT="203"
                     HPOS="871"
                     VPOS="79"
                     WIDTH="58"
@@ -113,7 +113,7 @@
                     WIDTH="263"
                     HEIGHT="72">
             <Shape><Polygon POINTS="84 257 84 278 132 270 195 275 236 276 237 276 344 265 345 253 344 218 303 206 301 206 300 206 298 206 253 218 198 207 197 207 195 207 175 218 164 209 162 209 161 209 159 209 158 209 137 217 98 209 96 209 95 209 93 209 93 211 82 220 84 257"/></Shape>
-	    <String CONTENT="ſint instituende¬"
+	    <String CONTENT="ſint instituendæ·"
                     HPOS="82"
                     VPOS="206"
                     WIDTH="263"
@@ -140,7 +140,7 @@
                     WIDTH="363"
                     HEIGHT="69">
             <Shape><Polygon POINTS="666 279 664 278 622 273 621 273 592 278 574 281 569 276 558 267 558 265 556 265 555 265 553 265 552 265 550 265 535 276 531 278 491 275 486 275 484 275 483 275 481 275 481 276 474 282 445 273 436 270 434 270 323 270 322 284 323 325 323 334 683 334 685 318 682 289"/></Shape>
-	    <String CONTENT="CAPVT VI."
+	    <String CONTENT="CAPVT VI·"
                     HPOS="322"
                     VPOS="265"
                     WIDTH="363"
@@ -201,7 +201,7 @@
                     WIDTH="702"
                     HEIGHT="78">
             <Shape><Polygon POINTS="219 614 325 622 326 622 427 612 455 611 467 612 495 617 497 617 499 617 510 612 516 609 531 612 561 617 563 617 602 611 628 608 918 608 919 590 916 545 669 544 668 544 643 548 619 553 599 548 581 545 580 545 546 550 494 556 419 551 389 550 387 550 386 550 378 551 350 559 303 553 287 551 286 551 275 553 240 561 217 554 219 606"/></Shape>
-	    <String CONTENT="Incribus ætate, ut minus ſapiunt, ila nihilſalubri"
+	    <String CONTENT="Incribus ætate, ut minus ſapiunt, ila nihil ſalubri"
                     HPOS="217"
                     VPOS="544"
                     WIDTH="702"
@@ -218,7 +218,7 @@
                     WIDTH="699"
                     HEIGHT="64">
             <Shape><Polygon POINTS="217 614 219 650 219 667 915 655 916 637 912 603 513 611 481 609 367 605 366 605 325 612 323 612 273 606 272 606"/></Shape>
-	    <String CONTENT="us præcipi poteſt, quamut prudentioribus dicto"
+	    <String CONTENT="us præcipi poteſt, quam ut prudentioribus dicto"
                     HPOS="217"
                     VPOS="603"
                     WIDTH="699"
@@ -235,7 +235,7 @@
                     WIDTH="699"
                     HEIGHT="64">
             <Shape><Polygon POINTS="219 698 219 719 334 709 423 716 442 717 444 717 456 716 508 708 539 714 547 716 549 716 550 716 556 714 583 708 599 714 605 716 607 716 608 717 608 716 610 716 616 712 630 708 638 712 641 716 643 716 644 716 646 716 647 716 657 712 672 708 913 708 916 690 913 655 272 655 270 655 217 662 219 698"/></Shape>
-	    <String CONTENT="audiant Hinc in pairia poteſtate eße liberos, non"
+	    <String CONTENT="audiant·Hinc in pairia poteſtate eße liberos, non"
                     HPOS="217"
                     VPOS="655"
                     WIDTH="699"
@@ -252,7 +252,7 @@
                     WIDTH="823"
                     HEIGHT="64">
             <Shape><Polygon POINTS="98 751 98 762 204 761 208 753 209 761 918 753 919 742 916 706 777 698 775 698 714 708 711 708 708 708 668 700 666 700 525 709 513 701 511 701 510 701 508 701 506 701 505 701 491 711 489 711 478 711 367 703 366 703 364 703 336 712 334 712 320 712 114 706 112 706 111 706 96 712 98 751"/></Shape>
-	    <String CONTENT="diuina fantum, ſed &amp; naturæ lex dictat-Impicigitur"
+	    <String CONTENT="diuina fantum, ſed &amp; naturæ lex dictat ·Impie igitur"
                     HPOS="96"
                     VPOS="698"
                     WIDTH="823"
@@ -303,7 +303,7 @@
                     WIDTH="834"
                     HEIGHT="67">
             <Shape><Polygon POINTS="95 906 95 914 926 903 927 895 921 847 902 856 841 848 833 848 832 848 830 848 827 848 802 858 777 850 775 850 774 850 772 850 758 850 663 859 616 855 592 852 591 852 574 855 546 861 500 856 461 853 459 853 458 853 456 853 452 858 444 862 395 859 330 855 328 855 93 866 95 906"/></Shape>
-	    <String CONTENT="runt, tentata; hæc, rata habenda definierunt- Paulus igi"
+	    <String CONTENT="runt, tentataq́; hæc, rata habenda definierunt· Paulus igi"
                     HPOS="93"
                     VPOS="847"
                     WIDTH="834"
@@ -320,7 +320,7 @@
                     WIDTH="837"
                     HEIGHT="65">
             <Shape><Polygon POINTS="779 898 777 898 775 898 757 906 735 898 733 898 732 898 730 898 711 908 710 908 632 900 630 900 628 900 610 909 608 911 561 911 560 911 550 902 549 902 547 902 546 902 544 902 514 911 513 911 511 911 481 902 480 902 478 902 477 902 475 902 459 911 433 903 431 903 430 903 358 912 356 912 336 903 328 905 325 905 305 914 303 914 295 914 215 905 203 906 198 906 93 916 95 956 95 963 930 952 930 945 927 906 826 898 824 898 822 898 802 908 801 908 799 908 780 898 779 898"/></Shape>
-	    <String CONTENT="tur audiendus liberis Chriſtianis, qui iubet obedire cos pa"
+	    <String CONTENT="tur audiendus liberis Chriſtianis, qui iubet obedire eos pa"
                     HPOS="93"
                     VPOS="898"
                     WIDTH="837"
@@ -337,7 +337,7 @@
                     WIDTH="834"
                     HEIGHT="66">
             <Shape><Polygon POINTS="923 955 705 950 704 950 702 950 674 959 669 959 666 959 638 952 636 952 635 952 572 959 561 961 547 961 449 953 447 953 445 953 427 963 425 964 344 964 344 963 334 955 333 955 331 955 330 955 328 955 326 955 316 964 314 964 303 964 215 956 214 956 212 956 211 956 211 958 209 958 203 966 198 966 150 958 148 958 93 966 95 1006 95 1016 926 1005 927 995 926 988 923 955"/></Shape>
-	    <String CONTENT="rentib-in Domino, quod intelligo, quemadmodũ et ucrti,"
+	    <String CONTENT="rentib· in Domino, quod intelligo, quemadmodũ et uerti,"
                     HPOS="93"
                     VPOS="950"
                     WIDTH="834"
@@ -354,7 +354,7 @@
                     WIDTH="831"
                     HEIGHT="75">
             <Shape><Polygon POINTS="926 1019 913 1002 904 997 902 997 901 997 824 1008 821 1008 818 1008 769 998 768 998 766 998 765 998 765 1000 755 1008 755 1009 613 1011 607 1008 597 1003 596 1003 594 1003 546 1008 503 1013 466 1008 423 1003 422 1003 420 1003 419 1003 413 1008 405 1014 377 1008 356 1005 355 1005 334 1008 306 1014 280 1008 269 1006 267 1006 96 1008 98 1056 98 1072 927 1052 927 1044 926 1016 926 1019"/></Shape>
-	    <String CONTENT="ficut dignũ Domino est, hoc eſt, ut ex animo et inomnib¬"
+	    <String CONTENT="ficut dignũ Domino est, hoc eſt, ut ex animo et in omnib·"
                     HPOS="96"
                     VPOS="997"
                     WIDTH="831"
@@ -371,7 +371,7 @@
                     WIDTH="831"
                     HEIGHT="69">
             <Shape><Polygon POINTS="100 1106 100 1119 927 1106 929 1095 926 1058 808 1050 807 1050 805 1050 771 1058 229 1058 228 1058 226 1058 211 1066 143 1059 142 1059 98 1067 100 1106"/></Shape>
-	    <String CONTENT="uoluntati parentum ſeſe attemperent. Id inquit iuſtum"
+	    <String CONTENT="uoluntati parentum ſeſe attemperent · Id inquit iuſtum"
                     HPOS="98"
                     VPOS="1050"
                     WIDTH="831"
@@ -388,7 +388,7 @@
                     WIDTH="830"
                     HEIGHT="72">
             <Shape><Polygon POINTS="916 1109 854 1109 844 1100 843 1100 841 1100 840 1100 780 1109 688 1102 686 1102 685 1102 646 1111 520 1103 519 1103 517 1103 516 1103 503 1113 450 1105 449 1105 406 1113 380 1105 378 1105 377 1105 375 1105 373 1105 362 1114 345 1106 344 1106 342 1106 341 1106 311 1114 215 1108 214 1108 212 1108 211 1108 200 1116 129 1108 128 1108 126 1108 96 1117 98 1155 98 1164 198 1172 200 1172 201 1172 229 1164 236 1163 262 1164 370 1170 372 1170 450 1163 467 1161 474 1163 495 1167 497 1167 499 1167 500 1167 502 1167 508 1163 513 1159 581 1159 585 1161 591 1167 592 1167 594 1167 596 1167 597 1167 622 1161 628 1159 632 1161 644 1167 646 1167 647 1167 924 1158 926 1145 923 1122 916 1109"/></Shape>
-	    <String CONTENT="est, diuinitus enim ſic inſtitutũ est, ut quiſ quos genuit,"
+	    <String CONTENT="est, diuinitus enim ſic inſtitutũ est, ut quiſq; quos genuit,"
                     HPOS="96"
                     VPOS="1100"
                     WIDTH="830"
@@ -422,7 +422,7 @@
                     WIDTH="709"
                     HEIGHT="67">
             <Shape><Polygon POINTS="100 1256 100 1263 333 1269 334 1269 486 1260 564 1266 566 1266 567 1266 594 1258 780 1263 782 1263 783 1263 807 1253 807 1247 804 1210 600 1202 599 1202 516 1211 508 1205 508 1203 506 1203 505 1203 452 1203 450 1203 98 1217 100 1256"/></Shape>
-	    <String CONTENT="oportet, &amp; magni illos habeant, id eſt, honorent¬"
+	    <String CONTENT="oportet, &amp; magni illos habeant, id eſt, honorent·"
                     HPOS="98"
                     VPOS="1202"
                     WIDTH="709"
@@ -473,7 +473,7 @@
                     WIDTH="821"
                     HEIGHT="64">
             <Shape><Polygon POINTS="100 1403 100 1413 918 1403 919 1394 916 1360 805 1360 791 1349 790 1349 788 1349 786 1349 785 1349 746 1361 702 1361 693 1352 693 1350 691 1350 689 1350 688 1350 619 1361 597 1352 596 1352 594 1352 592 1352 571 1360 519 1352 517 1352 516 1352 475 1363 380 1353 378 1353 289 1364 280 1356 280 1355 278 1355 276 1355 234 1355 233 1355 98 1367 100 1403"/></Shape>
-	    <String CONTENT="ne tibiſit &amp;c. Rudiores animi quales in ætate minori¬"
+	    <String CONTENT="ne tibiſit &amp;c· Rudiores animi quales in ætate minori¬"
                     HPOS="98"
                     VPOS="1349"
                     WIDTH="821"
@@ -507,7 +507,7 @@
                     WIDTH="821"
                     HEIGHT="95">
             <Shape><Polygon POINTS="100 1503 100 1550 231 1550 231 1549 233 1549 242 1546 305 1517 380 1541 398 1546 400 1546 402 1546 403 1546 405 1546 405 1544 411 1539 417 1535 433 1539 436 1539 438 1539 439 1539 447 1538 502 1525 541 1533 542 1533 544 1533 581 1521 602 1521 616 1532 616 1533 617 1533 619 1533 621 1533 622 1533 624 1533 643 1516 671 1532 685 1538 686 1538 688 1538 689 1538 691 1538 700 1530 714 1517 738 1528 757 1538 758 1538 760 1538 761 1538 763 1538 777 1527 797 1514 918 1522 919 1497 915 1455 98 1461 100 1503"/></Shape>
-	    <String CONTENT="ia ſus proudentis comparatum ſit, ut quis quitati stue"
+	    <String CONTENT="id ſua prouidentia comparatum ſit, ut quis æquitati stu¬"
                     HPOS="98"
                     VPOS="1455"
                     WIDTH="821"
@@ -534,7 +534,7 @@
                     WIDTH="152"
                     HEIGHT="72">
             <Shape><Polygon POINTS="918 1547 908 1517 802 1502 801 1502 799 1502 797 1502 777 1517 779 1550 779 1568 835 1574 837 1574 852 1571 882 1564 926 1572 929 1547 926 1541 918 1547"/></Shape>
-	    <String CONTENT="dent, ora"
+	    <String CONTENT="dent, or¬"
                     HPOS="777"
                     VPOS="1502"
                     WIDTH="152"
@@ -561,7 +561,7 @@
                     WIDTH="106"
                     HEIGHT="81">
             <Shape><Polygon POINTS="934 448 998 453 999 453 1001 453 1040 440 1040 428 1040 383 962 372 960 372 959 372 934 381 934 428"/></Shape>
-	    <String CONTENT="Secti¬"
+	    <String CONTENT="Sect·1·"
                     HPOS="934"
                     VPOS="372"
                     WIDTH="106"
@@ -588,7 +588,7 @@
                     WIDTH="160"
                     HEIGHT="75">
             <Shape><Polygon POINTS="935 636 935 647 993 642 1007 648 1012 650 1013 650 1015 650 1016 650 1024 648 1059 639 1088 647 1092 628 1087 575 1001 586 932 581 935 636"/></Shape>
-	    <String CONTENT="De officis"
+	    <String CONTENT="De officio"
                     HPOS="932"
                     VPOS="575"
                     WIDTH="160"
@@ -605,7 +605,7 @@
                     WIDTH="139"
                     HEIGHT="70">
             <Shape><Polygon POINTS="1056 630 1045 630 1031 637 1023 640 932 640 935 689 935 700 1040 700 1040 698 1041 698 1071 687 1071 681 1068 634 1059 630 1056 630"/></Shape>
-	    <String CONTENT="liberorũ¬"
+	    <String CONTENT="liberorũ·"
                     HPOS="932"
                     VPOS="630"
                     WIDTH="139"

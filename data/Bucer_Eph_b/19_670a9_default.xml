@@ -69,7 +69,7 @@
                     WIDTH="22"
                     HEIGHT="62">
             <Shape><Polygon POINTS="165 231 165 259 165 289 186 293 187 259 187 231 181 231"/></Shape>
-	    <String CONTENT="2"
+	    <String CONTENT="1."
                     HPOS="165"
                     VPOS="231"
                     WIDTH="22"
@@ -96,7 +96,7 @@
                     WIDTH="20"
                     HEIGHT="50">
             <Shape><Polygon POINTS="161 712 161 730 161 762 181 759 181 730 179 712 176 712"/></Shape>
-	    <String CONTENT="2"
+	    <String CONTENT="2."
                     HPOS="161"
                     VPOS="712"
                     WIDTH="20"
@@ -361,7 +361,7 @@
                     WIDTH="837"
                     HEIGHT="55">
             <Shape><Polygon POINTS="1066 887 237 895 239 938 239 942 1074 938 1074 928 1073 923 1066 887"/></Shape>
-	    <String CONTENT="mul excitauit, atqꝫ ſimul collocauit in cæleſti¬"
+	    <String CONTENT="mul excitauit, atq; ſimul collocauit in cæleſti¬"
                     HPOS="237"
                     VPOS="887"
                     WIDTH="837"
@@ -446,7 +446,7 @@
                     WIDTH="834"
                     HEIGHT="63">
             <Shape><Polygon POINTS="940 1125 924 1127 916 1127 907 1130 898 1134 801 1134 783 1130 774 1128 768 1128 752 1128 736 1128 732 1128 729 1130 718 1134 705 1130 700 1128 689 1128 675 1128 675 1130 660 1134 638 1130 627 1130 611 1130 603 1130 592 1136 422 1136 416 1131 408 1133 392 1133 377 1133 361 1133 345 1133 330 1133 314 1133 298 1133 297 1131 287 1138 280 1130 280 1128 278 1128 276 1128 275 1128 236 1128 237 1181 237 1188 1068 1183 1070 1174 1065 1131 954 1131 951 1130 941 1125 940 1125"/></Shape>
-	    <String CONTENT="dem, idqꝫ non ex uobis, Dei donum eſt, non"
+	    <String CONTENT="dem, idq; non ex uobis, Dei donum eſt, non"
                     HPOS="236"
                     VPOS="1125"
                     WIDTH="834"
@@ -480,7 +480,7 @@
                     WIDTH="832"
                     HEIGHT="65">
             <Shape><Polygon POINTS="955 1224 940 1224 924 1224 908 1224 893 1225 877 1225 862 1225 846 1225 844 1225 832 1228 813 1233 805 1228 797 1225 783 1225 782 1225 758 1230 740 1233 736 1230 730 1225 721 1227 705 1227 689 1227 674 1227 658 1227 644 1227 641 1231 638 1236 513 1236 511 1235 505 1228 502 1228 489 1228 449 1235 439 1236 428 1236 372 1230 361 1230 345 1230 336 1230 330 1236 258 1230 256 1230 255 1230 236 1236 237 1278 237 1289 1066 1281 1068 1272 1063 1225 979 1231 968 1227 962 1224 955 1224"/></Shape>
-	    <String CONTENT="musfigmentum, conditi in Chriſto leſu, ad"
+	    <String CONTENT="mus figmentum, conditi in Chriſto leſu, ad"
                     HPOS="236"
                     VPOS="1224"
                     WIDTH="832"
@@ -609,7 +609,7 @@
                     WIDTH="24"
                     HEIGHT="50">
             <Shape><Polygon POINTS="154 1122 156 1139 158 1172 178 1172 176 1138 172 1122 170 1122"/></Shape>
-	    <String CONTENT="11"
+	    <String CONTENT="3."
                     HPOS="154"
                     VPOS="1122"
                     WIDTH="24"
