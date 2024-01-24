@@ -19,8 +19,8 @@ We follow the transcription of S. Gabay et al. Additional characters had to be t
 | Sign           | Transcription | image                                                                                                                                     | Reference                                                                |
 |----------------|---------------|-------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|
 | Pilcrow        | ¶             | <img src="https://github.com/FourbeFlo/Lambertus/blob/main/images/piedDeMouche_1.jpg" alt="Pillcrow" width="85" height="47">              | [e-rara](https://doi.org/10.3931/e-rara-6338), p.11                      |    
-|Greek alphabet  |               | <img src="https://github.com/FourbeFlo/Lambertus/blob/main/images/greek_alphabet.jpg" alt="Greek alphabet" width="196" height="41">       | [e-rara](https://doi.org/10.3931/e-rara-6338), p.283                     |
-|Hebrew alphabet |               | <img src="https://github.com/FourbeFlo/Lambertus/blob/main/images/ps_90_fee98_default.jpg" alt="Hebrew alphabet" width="154" height="24"> | [MDZ](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00035303-6), p.42|
+|Greek alphabet  | ωρώ την πιςιν | <img src="https://github.com/FourbeFlo/Lambertus/blob/main/images/greek_alphabet.jpg" alt="Greek alphabet" width="196" height="41">       | [e-rara](https://doi.org/10.3931/e-rara-6338), p.283                     |
+|Hebrew alphabet | חרל           | <img src="https://github.com/FourbeFlo/Lambertus/blob/main/images/ps_90_fee98_default.jpg" alt="Hebrew alphabet" width="154" height="24"> | [MDZ](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00035303-6), p.42|
 |shaped semicolon| q́;            | <img src="https://github.com/FourbeFlo/Lambertus/blob/main/images/semi-colon%20shapped.png" alt="semi-colon" width="27" height="48">       |citer la bonne page de cremma p.7                                        |             
 
 ## Segmentation   
