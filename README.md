@@ -19,7 +19,7 @@ We follow the transcription of S. Gabay et al. Additional characters had to be t
 |----------------|---------------|-------------------------------------------------------------------|--------------------------------------------------------------------------|
 | Pilcrow        | ¶             | ![Pilcrow](images/piedDeMouche_1.jpg)                             | [e-rara](https://doi.org/10.3931/e-rara-6338), p.11                      |
 |Greek alphabet  |               | ![greek alphabet](images/greek_alphabet.jpg)                      | [e-rara](https://doi.org/10.3931/e-rara-6338), p.283                     |
-|Hebrew alphabet |               | ![hebrew alphabet](iamges/90_fee98default.png)                    | [MDZ](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00035303-6), p.42|
+|Hebrew alphabet |               | ![hebrew alphabet](iamges/90_fee98default.jpg)                    | [MDZ](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00035303-6), p.42|
 |shaped semicolon|               |préciser l'élément                                                 |citer la bonne page de cremma                                             |             
 
 ## Segmentation   
