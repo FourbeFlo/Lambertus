@@ -32,8 +32,8 @@ These include lettering that has been defined solely as [GraphicZone] without as
 
 
 ## HTR
-The basis HTR model is provided by the data of Gallicorpora [data](https://github.com/Gallicorpora/Segmentation-and-HTR-Models). 
-The htr model is fine tunned on my data and the data produced by M. Jeannot-Tirole [data](https://github.com/FoNDUE-HTR/FONDUE-LA-PRINT-16). 
+The basis HTR model is provided by the model developped with [Gallicorpora](https://github.com/Gallicorpora/Segmentation-and-HTR-Models). 
+The htr model is fine tunned for latin printed 16th centuary commentaries on my data and the [data](https://github.com/FoNDUE-HTR/FONDUE-LA-PRINT-16) produced by M. Jeannot-Tirole.
 last update of the htr model 24.01.24.
 
 ## Licence 
