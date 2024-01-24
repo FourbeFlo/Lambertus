@@ -16,12 +16,12 @@ We follow the transcription of S. Gabay et al. Additional characters had to be t
 - The Greek alphabet is transcribed with accents, \_but\_ ligatures and abbreviations are not currently transcribed.
 - There are some words in Hebrew also transcribed. 
 
-| Sign           | Transcription | image                                                             | Reference                                                                |
-|----------------|---------------|-------------------------------------------------------------------|--------------------------------------------------------------------------|
-| Pilcrow        | ¶             | ![Pilcrow](images/piedDeMouche_1.jpg |width=100)                  | [e-rara](https://doi.org/10.3931/e-rara-6338), p.11                      |
-|Greek alphabet  |               | ![Greek alphabet](images/greek_alphabet.jpg)                      | [e-rara](https://doi.org/10.3931/e-rara-6338), p.283                     |
-|Hebrew alphabet |               | ![Hebrew words](images/ps_90_fee98_default.jpg)                   | [MDZ](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00035303-6), p.42|
-|shaped semicolon|               |préciser l'élément                                                 |citer la bonne page de cremma                                             |             
+| Sign           | Transcription | image                                                                                                                       | Reference                                                                |
+|----------------|---------------|-----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|
+| Pilcrow        | ¶             | ![Pilcrow](https://github.com/FourbeFlo/Lambertus/blob/main/images/piedDeMouche_1.jpg){width=50 height=50}                  | [e-rara](https://doi.org/10.3931/e-rara-6338), p.11                      |
+|Greek alphabet  |               | ![Greek alphabet](images/greek_alphabet.jpg)                                                                                | [e-rara](https://doi.org/10.3931/e-rara-6338), p.283                     |
+|Hebrew alphabet |               | ![Hebrew words](images/ps_90_fee98_default.jpg)                                                                             | [MDZ](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00035303-6), p.42|
+|shaped semicolon|               |préciser l'élément                                                                                                           |citer la bonne page de cremma                                             |             
 
 ## Segmentation   
 Using the SegmOnto segmentation standards,certain elements are considered to be faulty when the xml file is checked, but these errors have no consequences for the experiment.
