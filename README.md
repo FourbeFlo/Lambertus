@@ -31,7 +31,10 @@ These include lettering that has been defined solely as [GraphicZone] without as
 |	Bucer_Eph_b           | [204_89ed9_default.xml](data/Bucer_Eph_b/204_89ed9_default.xml); [90_fee98_default.xml](data/Bucer_Eph_b/90_fee98_default.xml)|
 
 
-
+## HTR
+The basis HTR model is provided by the data of Gallicorpora [data](https://github.com/Gallicorpora/Segmentation-and-HTR-Models). 
+The htr model is fine tunned on my data and the data produced by M. Jeannot-Tirole [data](https://github.com/FoNDUE-HTR/FONDUE-LA-PRINT-16). 
+last update of the htr model 24.01.24.
 
 ## Licence 
 The transcriptions are [CC-BY](https://creativecommons.org/licenses/by/4.0), and the images follow the rules of various digital libraries:
