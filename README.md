@@ -39,6 +39,7 @@ last update of the htr model 24.01.24.
 ## Licence 
 The transcriptions are [CC-BY](https://creativecommons.org/licenses/by/4.0), and the images follow the rules of various digital libraries:
 - e-rara: https://www.e-rara.ch/wiki/termsOfUse?lang=en
+- MDZ : https://www.digitale-sammlungen.de/de/datenschutzerklaerung
   
 ## Citation
 Floriane Goy, _Data for roman 16 th c. Latin print_,  university of Geneve 2023
