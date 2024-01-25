@@ -176,13 +176,13 @@
           
           
           <TextLine ID="eSc_line_4a2e0d2a"
-                    
+                    TAGREFS="LT4118"
                     BASELINE="593 881 754 878" 
                     HPOS="588"
                     VPOS="820"
                     WIDTH="163"
                     HEIGHT="92">
-            <Shape><Polygon POINTS="591 878 591 907 749 912 751 876 745 823 687 834 669 829 640 820 638 820 635 820 633 820 588 836 591 878"/></Shape>
+            <Shape><Polygon POINTS="591 907 749 912 751 876 745 823 687 834 669 829 640 820 638 820 635 820 633 820 588 836 591 878"/></Shape>
 	    <String CONTENT="mino."
                     HPOS="588"
                     VPOS="820"

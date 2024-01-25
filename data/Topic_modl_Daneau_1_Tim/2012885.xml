@@ -30,7 +30,7 @@
                    WIDTH="1099"
                    HEIGHT="2014"
                    ID="block_1"
-                   >
+                   TAGREFS="BT10535">
           <Shape><Polygon POINTS="1217 211 1217 2225 118 2225 118 211"/></Shape>
           
           
@@ -376,7 +376,7 @@
                    WIDTH="482"
                    HEIGHT="87"
                    ID="block_0"
-                   >
+                   TAGREFS="BT10536">
           <Shape><Polygon POINTS="1067 109 1067 196 585 196 585 109"/></Shape>
           
           
