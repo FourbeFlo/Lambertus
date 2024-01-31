@@ -27,80 +27,81 @@ characters:
   - b
   - h
   - .
-  - g
   - ¬
-  - f
-  - '&'
+  - g
   - æ
+  - '&'
+  - f
   - ̃
   - v
   - E
-  - P
-  - D
   - ̀
+  - D
+  - P
   - x
   - I
   - C
   - A
   - S
   - V
+  - ́
   - ·
   - T
-  - M
   - ':'
+  - M
+  - O
   - j
   - N
-  - ́
-  - O
-  - ;
   - α
+  - ;
+  - L
+  - R
   - Q
   - H
-  - R
-  - L
-  - '1'
   - ι
-  - ς
   - ο
-  - '2'
-  - ν
-  - ̓
-  - τ
   - ̨
-  - y
+  - '1'
+  - ̓
   - œ
-  - κ
+  - ς
+  - ν
+  - σ
+  - τ
+  - ω
+  - y
   - )
+  - υ
+  - η
+  - '2'
+  - κ
+  - ε
   - '3'
   - ß
-  - ω
-  - B
-  - '5'
+  - (
+  - ̂
   - '4'
   - ρ
-  - ε
-  - σ
-  - F
+  - B
+  - '5'
   - G
-  - η
-  - ̂
-  - ͂
   - '?'
-  - '9'
-  - (
-  - υ
   - μ
+  - F
+  - ͂
+  - δ
+  - '9'
+  - β
   - '8'
   - '7'
   - '6'
   - λ
-  - δ
-  - γ
-  - ꝙ
-  - '0'
   - π
+  - γ
   - ¶
+  - ꝙ
   - χ
+  - '0'
   - Z
   - θ
   - ͅ
@@ -108,14 +109,14 @@ characters:
   - X
   - Α
   - '|'
-  - φ
   - ̔
+  - φ
   - '!'
   - z
   - Π
   - Æ
-  - β
   - ζ
+  - ̧
   - ᗞ
   - ꝑ
   - '-'
@@ -157,11 +158,11 @@ title: Lambertus
 transcription-guidelines: Our data follow SegmOnto segmentation standards (https://segmonto.github.io).
 url: https://github.com/FourbeFlo/Lambertus
 volume:
-- count: 45323
+- count: 55365
   metric: characters
-- count: 45
+- count: 55
   metric: files
-- count: 1337
+- count: 1634
   metric: lines
-- count: 189
+- count: 215
   metric: regions
