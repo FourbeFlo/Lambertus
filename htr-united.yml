@@ -116,10 +116,10 @@ characters:
   - Π
   - z
   - Æ
+  - ↄ
   - Κ
   - '-'
   - '!'
-  - ↄ
   - U
   - ψ
   - Y
@@ -165,11 +165,11 @@ title: Lambertus
 transcription-guidelines: Our data follow SegmOnto segmentation standards (https://segmonto.github.io).
 url: https://github.com/FourbeFlo/Lambertus
 volume:
-- count: 73216
+- count: 73226
   metric: characters
 - count: 76
   metric: files
-- count: 2215
+- count: 2216
   metric: lines
 - count: 282
   metric: regions
