@@ -13,7 +13,7 @@ The data can be found at './data/**/*xml'. They are in ALTO format and follow Se
 We follow the transcription of S. Gabay et al. Additional characters had to be treated:
 
 - The pilcrow was transcribed by  ¶
-- The Greek alphabet is transcribed with accents, \_but\_ ligatures and abbreviations are not perfectly transcribed.
+- The Greek alphabet is transcribed with accents, \_but\_ ligatures and abbreviations are not perfectly transcribed across the whole corpus. However, particular care has been taken with the Greek transcriptions concerning the data of  Topic_modl_Daneau_1_Tim. 
 - There are some words in Hebrew also transcribed. 
 
 | Sign           | Transcription | image                                                                                                                                     | Reference                                                                |
