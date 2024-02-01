@@ -1,5 +1,5 @@
 #!/bin/env bash
-#SBATCH --partition=debug-gpu
+#SBATCH --partition=shared-gpu
 #SBATCH --time=06:00:00
 #SBATCH --gpus=2
 #SBATCH --output=kraken-%j.out
