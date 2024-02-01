@@ -3,7 +3,7 @@
 #SBATCH --time=08:00:00
 #SBATCH --gpus=2
 #SBATCH --output=kraken-%j.out
-#SBATCH --mem=24GN
+#SBATCH --mem=24GB
 #SBATCH --ntasks=12
 #SBATCH --gres=gpu:2,VramPerGpu:24GB
 
