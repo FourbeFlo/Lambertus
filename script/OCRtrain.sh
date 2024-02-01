@@ -8,7 +8,7 @@
 #SBATCH --gres=gpu:2,VramPerGpu:24GB
 
 module load fosscuda/2020b Python/3.8.6
-source ~/kraken-env/bin/activate
+source ~Train/kraken-env/bin/activate
 
 echo "KETOS training"
 srun ketos train -f alto -i Gallicorpora+_best.mlmodel --resize add -f alto -d cuda:0 -r 0.0001 --lag 10  --workers 12 --normalization NFD data/*/*.xml
