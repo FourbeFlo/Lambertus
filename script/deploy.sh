@@ -8,4 +8,3 @@ mkdir new
 cd ..
 mv FONDUE-LA-PRINT-16/data train_data/fondue
 mv FONDUE-FR-PRINT-16/data train_data/fondue
-mv train_data ..
