@@ -6,8 +6,8 @@ cd train_data
 mkdir fondue
 mkdir new
 cd ..
-mv FONDUE-LA-PRINT-16/data/* train_data/fondue
-mv FONDUE-FR-PRINT-16/data/* train_data/fondue
-mv Lambertus/data/* train_data/new
+mv FONDUE-LA-PRINT-16/data train_data/fondue
+mv FONDUE-FR-PRINT-16/data train_data/fondue
+mv Lambertus/data train_data/new
 rm -rf FoNDUE-HTR/FONDUE-LA-PRINT-16
 rm -rf FoNDUE-HTR/FONDUE-FR-PRINT-16
