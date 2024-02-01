@@ -31,11 +31,9 @@ These include lettering that has been defined solely as [GraphicZone] without as
 |Aretius_1-Tim          |[page_00469.xml](data/Aretius_1-Tim/page_00469.xml)                                                                            |                                                        |
 |Lambertus-Danaeus_1-Tim| [4_6c6d2_default.xml](data/Daneau_1-Tim/4_6c6d2_default.xml)                                                                  |                                                        |
 |	Bucer_Eph_b           | [204_89ed9_default.xml](data/Bucer_Eph_b/204_89ed9_default.xml); [90_fee98_default.xml](data/Bucer_Eph_b/90_fee98_default.xml)|                                                        |
-|Topic_modl_Daneau_1_Tim| [2012887.xml](data/Topic_modl_Daneau_1_Tim/2012887.xml)                                                                       |[2012885.xml](data/Topic_modl_Daneau_1_Tim/2012885.xml);
-                                                                                                                                                         [2012886.xml](data/Topic_modl_Daneau_1_Tim/2012886.xml) 
-                                                                                                                                                         [2012908.xml](data/Topic_modl_Daneau_1_Tim/2012908.xml) | 
-|Index_Lambert          | [2012909.xml](data/index_Lambert/2012909.xml),                                                                                |[2012909.xml](data/index_Lambert/2012909.xml);          |
-|                       |                                                                                                                               |[2012910.xml](data/index_Lambert/2012910.xml)           |
+|Topic_modl_Daneau_1_Tim| [2012887.xml](data/Topic_modl_Daneau_1_Tim/2012887.xml)                                                                       |[2012885.xml](data/Topic_modl_Daneau_1_Tim/2012885.xml);[2012886.xml](data/ Topic_modl_Daneau_1_Tim/2012886.xml);[2012908.xml](data/Topic_modl_Daneau_1_Tim/2012908.xml)|                                                                                                                  
+|Index_Lambert          | [2012909.xml](data/index_Lambert/2012909.xml),                                                                                |[2012909.xml](data/index_Lambert/2012909.xml);[2012910.xml](data/index_Lambert/2012910.xml)                                                                                |
+
 
 
 ## HTR
