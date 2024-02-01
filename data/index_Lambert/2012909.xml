@@ -928,6 +928,16 @@
           
         </TextBlock>
         
+        <TextBlock HPOS="118"
+                   VPOS="720"
+                   WIDTH="152"
+                   HEIGHT="165"
+                   ID="eSc_textblock_9029ef96"
+                   TAGREFS="BT10537">
+          <Shape><Polygon POINTS="122 728 118 879 270 885 270 720"/></Shape>
+          
+        </TextBlock>
+        
 
         
       </PrintSpace>

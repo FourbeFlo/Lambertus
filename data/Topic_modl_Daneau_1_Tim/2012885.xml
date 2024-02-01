@@ -31,7 +31,7 @@
                    HEIGHT="2014"
                    ID="block_1"
                    TAGREFS="BT10535">
-          <Shape><Polygon POINTS="1217 211 1217 2225 118 2225 118 211"/></Shape>
+          <Shape><Polygon POINTS="1217 211 1213 2216 118 2225 118 211"/></Shape>
           
           
           <TextLine ID="eSc_line_9b9bf49d"
@@ -422,6 +422,16 @@
                     HEIGHT="137"></String>
           </TextLine>
 
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="406"
+                   VPOS="1308"
+                   WIDTH="527"
+                   HEIGHT="577"
+                   ID="eSc_textblock_1ef8a5f9"
+                   TAGREFS="BT10536">
+          <Shape><Polygon POINTS="933 1311 930 1885 406 1885 412 1308"/></Shape>
           
         </TextBlock>
         

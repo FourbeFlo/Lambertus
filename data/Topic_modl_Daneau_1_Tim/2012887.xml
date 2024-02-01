@@ -199,7 +199,7 @@
                    WIDTH="1073"
                    HEIGHT="1201"
                    ID="block_0"
-                   TAGREFS="BT10542">
+                   >
           <Shape><Polygon POINTS="1194 956 1194 2157 121 2157 121 956"/></Shape>
           
           
@@ -531,6 +531,16 @@
                     HEIGHT="3"></String>
           </TextLine>
 
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="151"
+                   VPOS="960"
+                   WIDTH="295"
+                   HEIGHT="303"
+                   ID="eSc_textblock_2093ad62"
+                   TAGREFS="BT10537">
+          <Shape><Polygon POINTS="154 960 151 1257 446 1263 446 963"/></Shape>
           
         </TextBlock>
         
