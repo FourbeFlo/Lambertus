@@ -469,40 +469,6 @@
 
           
           
-          <TextLine ID="eSc_line_12ceee99"
-                    TAGREFS="LT4119"
-                    BASELINE="600 976 692 974" 
-                    HPOS="598"
-                    VPOS="940"
-                    WIDTH="94"
-                    HEIGHT="51">
-            <Shape><Polygon POINTS="600 976 600 991 691 991 692 974 690 945 598 940 600 976"/></Shape>
-	    <String CONTENT="Tum"
-                    HPOS="598"
-                    VPOS="940"
-                    WIDTH="94"
-                    HEIGHT="51"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_10e46a79"
-                    TAGREFS="LT4119"
-                    BASELINE="1008 962 1442 960" 
-                    HPOS="1006"
-                    VPOS="914"
-                    WIDTH="435"
-                    HEIGHT="66">
-            <Shape><Polygon POINTS="1007 978 1438 980 1441 959 1435 914 1405 926 1327 926 1313 914 1312 914 1310 914 1309 914 1306 914 1257 924 1232 917 1230 917 1229 917 1227 917 1226 917 1217 924 1190 917 1188 917 1187 917 1140 924 1123 914 1122 914 1120 914 1119 914 1113 914 1077 921 1006 915 1007 960"/></Shape>
-	    <String CONTENT="Priuato quod poſitum eſt"
-                    HPOS="1006"
-                    VPOS="914"
-                    WIDTH="435"
-                    HEIGHT="66"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_da79c88c"
                     TAGREFS="LT4119"
                     BASELINE="1462 960 1462 923" 
@@ -533,6 +499,40 @@
                     VPOS="892"
                     WIDTH="610"
                     HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_12ceee99"
+                    TAGREFS="LT4119"
+                    BASELINE="600 976 692 974" 
+                    HPOS="598"
+                    VPOS="940"
+                    WIDTH="94"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="600 976 600 991 691 991 692 974 690 945 598 940 600 976"/></Shape>
+	    <String CONTENT="Tum"
+                    HPOS="598"
+                    VPOS="940"
+                    WIDTH="94"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_10e46a79"
+                    TAGREFS="LT4119"
+                    BASELINE="1008 962 1442 960" 
+                    HPOS="1006"
+                    VPOS="914"
+                    WIDTH="435"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="1007 978 1438 980 1441 959 1435 914 1405 926 1327 926 1313 914 1312 914 1310 914 1309 914 1306 914 1257 924 1232 917 1230 917 1229 917 1227 917 1226 917 1217 924 1190 917 1188 917 1187 917 1140 924 1123 914 1122 914 1120 914 1119 914 1113 914 1077 921 1006 915 1007 960"/></Shape>
+	    <String CONTENT="Priuato quod poſitum eſt"
+                    HPOS="1006"
+                    VPOS="914"
+                    WIDTH="435"
+                    HEIGHT="66"></String>
           </TextLine>
 
           
@@ -622,6 +622,23 @@
 
           
           
+          <TextLine ID="eSc_line_e6e83da4"
+                    TAGREFS="LT4119"
+                    BASELINE="747 1054 902 1052" 
+                    HPOS="746"
+                    VPOS="1003"
+                    WIDTH="156"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="747 1054 747 1069 902 1062 902 1052 899 1012 855 1012 854 1012 841 1003 840 1003 839 1003 838 1003 837 1003 820 1009 781 1004 780 1004 779 1004 746 1013 747 1054"/></Shape>
+	    <String CONTENT="Munere"
+                    HPOS="746"
+                    VPOS="1003"
+                    WIDTH="156"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
           <TextLine ID="eSc_line_692bb249"
                     TAGREFS="LT4119"
                     BASELINE="1354 1055 1519 1049" 
@@ -669,23 +686,6 @@
                     VPOS="980"
                     WIDTH="178"
                     HEIGHT="69"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_e6e83da4"
-                    TAGREFS="LT4119"
-                    BASELINE="747 1054 902 1052" 
-                    HPOS="746"
-                    VPOS="1003"
-                    WIDTH="156"
-                    HEIGHT="66">
-            <Shape><Polygon POINTS="747 1054 747 1069 902 1062 902 1052 899 1012 855 1012 854 1012 841 1003 840 1003 839 1003 838 1003 837 1003 820 1009 781 1004 780 1004 779 1004 746 1013 747 1054"/></Shape>
-	    <String CONTENT="Munere"
-                    HPOS="746"
-                    VPOS="1003"
-                    WIDTH="156"
-                    HEIGHT="66"></String>
           </TextLine>
 
           
@@ -843,6 +843,23 @@
 
           
           
+          <TextLine ID="eSc_line_244d3a65"
+                    TAGREFS="LT4119"
+                    BASELINE="1568 1190 1884 1179" 
+                    HPOS="1565"
+                    VPOS="1142"
+                    WIDTH="318"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="1566 1189 1566 1209 1724 1209 1724 1207 1726 1207 1727 1207 1727 1206 1729 1206 1733 1200 1735 1197 1765 1197 1782 1198 1842 1203 1843 1203 1845 1203 1883 1192 1883 1177 1878 1142 1565 1151 1566 1189"/></Shape>
+	    <String CONTENT="sam ſiue illa ſit de"
+                    HPOS="1565"
+                    VPOS="1142"
+                    WIDTH="318"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
           <TextLine ID="eSc_line_c0e106bd"
                     TAGREFS="LT4119"
                     BASELINE="1897 1186 1899 1024" 
@@ -924,23 +941,6 @@
                     VPOS="1029"
                     WIDTH="51"
                     HEIGHT="174"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_244d3a65"
-                    TAGREFS="LT4119"
-                    BASELINE="1568 1190 1884 1179" 
-                    HPOS="1565"
-                    VPOS="1142"
-                    WIDTH="318"
-                    HEIGHT="67">
-            <Shape><Polygon POINTS="1566 1189 1566 1209 1724 1209 1724 1207 1726 1207 1727 1207 1727 1206 1729 1206 1733 1200 1735 1197 1765 1197 1782 1198 1842 1203 1843 1203 1845 1203 1883 1192 1883 1177 1878 1142 1565 1151 1566 1189"/></Shape>
-	    <String CONTENT="sam ſiue illa ſit de"
-                    HPOS="1565"
-                    VPOS="1142"
-                    WIDTH="318"
-                    HEIGHT="67"></String>
           </TextLine>
 
           
@@ -1959,33 +1959,6 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="2208"
-                   VPOS="739"
-                   WIDTH="47"
-                   HEIGHT="148"
-                   ID="eSc_textblock_053a2224"
-                   TAGREFS="BT10534">
-          <Shape><Polygon POINTS="2208 887 2208 739 2255 739 2255 887"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_41ce7ca0"
-                    TAGREFS="LT4119"
-                    BASELINE="2249 875 2246 760" 
-                    HPOS="2209"
-                    VPOS="757"
-                    WIDTH="76"
-                    HEIGHT="117">
-            <Shape><Polygon POINTS="2209 758 2209 873 2247 874 2264 873 2262 819 2277 801 2285 792 2285 790 2285 789 2285 787 2283 757 2244 758"/></Shape>
-	    <String CONTENT="a iiij."
-                    HPOS="2209"
-                    VPOS="757"
-                    WIDTH="76"
-                    HEIGHT="117"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
         <TextBlock HPOS="916"
                    VPOS="2196"
                    WIDTH="145"
@@ -1996,7 +1969,38 @@
           
         </TextBlock>
         
+        <TextBlock HPOS="2196"
+                   VPOS="743"
+                   WIDTH="78"
+                   HEIGHT="170"
+                   ID="eSc_textblock_c03626ea"
+                   TAGREFS="BT10534">
+          <Shape><Polygon POINTS="2196 743 2203 913 2274 904 2274 752"/></Shape>
+          
+        </TextBlock>
+        
 
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_41ce7ca0"
+                    TAGREFS="LT4119"
+                    BASELINE="2244 876 2246 760" 
+                    HPOS="2208"
+                    VPOS="757"
+                    WIDTH="56"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="2208 843 2208 858 2208 871 2243 874 2264 874 2264 758 2244 758 2211 757 2208 813 2208 828"/></Shape>
+	    <String CONTENT="a iiij."
+                    HPOS="2208"
+                    VPOS="757"
+                    WIDTH="56"
+                    HEIGHT="117"></String>
+          </TextLine>
+
+          
+        </TextBlock>
         
       </PrintSpace>
     </Page>
