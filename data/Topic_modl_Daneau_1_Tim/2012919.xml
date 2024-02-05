@@ -1985,19 +1985,6 @@
 
           
         </TextBlock>
-        
-        <TextBlock HPOS="916"
-                   VPOS="2196"
-                   WIDTH="145"
-                   HEIGHT="73"
-                   ID="eSc_textblock_14cc20d5"
-                   TAGREFS="BT10534">
-          <Shape><Polygon POINTS="1061 2196 1061 2269 916 2269 916 2196"/></Shape>
-          
-        </TextBlock>
-        
-
-        
       </PrintSpace>
     </Page>
   </Layout>
