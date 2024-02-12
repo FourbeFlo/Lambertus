@@ -126,15 +126,14 @@ characters:
   - ’
   - '-'
   - Y
+  - ל
   - '!'
   - ̈
-  - "'"
   - ψ
   - ᗞ
   - ꝑ
   - ח
   - ר
-  - ל
   - 
   - Τ
   - ϲ
@@ -146,7 +145,11 @@ characters:
   - Β
   - Χ
   - ᾽
+  - "'"
   - ꝰ
+  - ת
+  - פ
+  - ה
   mode: NFD
 description: Data for data for Paul’s exegesis.
 format: Alto-XML
