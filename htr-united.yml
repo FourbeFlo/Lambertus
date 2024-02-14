@@ -68,8 +68,8 @@ characters:
   - τ
   - ε
   - ·
-  - ς
   - ̨
+  - ς
   - ̂
   - ̓
   - ;
@@ -177,11 +177,11 @@ title: Lambertus
 transcription-guidelines: Our data follow SegmOnto segmentation standards (https://segmonto.github.io).
 url: https://github.com/FourbeFlo/Lambertus
 volume:
-- count: 185924
+- count: 186972
   metric: characters
-- count: 166
+- count: 167
   metric: files
-- count: 5439
+- count: 5470
   metric: lines
-- count: 631
+- count: 636
   metric: regions
