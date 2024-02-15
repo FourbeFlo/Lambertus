@@ -20,7 +20,8 @@ Megander_Eph         |  gold          |  gold           |  282 (11)  |  Kaspar M
 Aretius_1-Tim        |  gold          |  gold           |  450(11)   |  Benedictus Aretius  |  in Epistolas ad Timotheum ad Titum et ad Philemonem  |  Jean Le preux      |  1580  |  Morges      |  https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10313792-3  |  München Bayerische Staatsbibliothek  |  Exeg. 53 Beibd.1
 
 The pages have been chosen at random, with the exception of those marked with an asterisk (*), which are used for the topic-modelling experiment. 
-**file nomenclature**
+
+### file nomenclature
 - name of the exegete_name of the commented epistle abbreviated according to the Vulgate_a letter in alphabetical order if an additional distinction is required
   ex: Brucer_Eph_b
 - files used for Topic-Modeling are classified by chapter unit. They are preceded by the letters T_M_ and ended by C and the number of the chapter in question.
