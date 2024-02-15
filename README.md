@@ -9,7 +9,10 @@ This repository contains data from the project on Paul's exegesis.
 The data can be found at './data/**/*xml'. They are in ALTO format and follow SegmOnto segmentation standards (https://segmonto.github.io). All data is produced using the eScriptorium interface and is catalogued on HTR-United (https://htr-united.github.io). The ALTO files are corrected manually: the segmentation and transcription from the HTR are currently being checked.
 
 # Content
-![fichier csv](corpus_ocr.csv)
+
+
+the pages have been chosen at random, with the exception of those marked with an asterisk, which are used for the topic-modelling experiment. [corpus.](corpus_ocr.csv)
+- file nomenclature : name of the exegete_name of the commented epistle_ 
 
 ## Transcription guidelines
 
