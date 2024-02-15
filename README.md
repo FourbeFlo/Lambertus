@@ -10,9 +10,23 @@ The data can be found at './data/**/*xml'. They are in ALTO format and follow Se
 
 # Content
 
+Identifier           |  Segmentation  |  Transcription  |  Pages     |  Author              |  Commentary                                           |  Printer            |  Date  |  Place       |  Link digital book                                             |  Holding institution                  |  Call number
+---------------------|----------------|-----------------|------------|----------------------|-------------------------------------------------------|---------------------|--------|--------------|----------------------------------------------------------------|---------------------------------------|--------------------------
+T_M_Daneau_1_Tim_C1  |  gold          |  gold           |  513(64*)  |  Lambert Daneau      |  priorem Epistolam ad Timotheum                       |  Eustathius Vignon  |  1577  |  Genève      |  https://doi.org/10.3931/e-rara-6338                           |  Bibliothèque de Genève               |  BGE Cti 1753 BGE S 22877
+T_M_Daneau_1_Tim_C2  |  gold          |  gold           |  513(54*)  |  Lambert Daneau      |  priorem Epistolam ad Timotheum                       |  Eustathius Vignon  |  1577  |  Genève      |  https://doi.org/10.3931/e-rara-6338                           |  Bibliothèque de Genève               |  BGE Cti 1753 BGE S 22877
+Daneau_1-Tim         |  gold          |  gold           |  513(12)   |  Lambert Daneau      |  priorem Epistolam ad Timotheum                       |  Eustathius Vignon  |  1577  |  Genève      |  https://doi.org/10.3931/e-rara-6338                           |  Bibliothèque de Genève               |  BGE Cti 1753 BGE S 22877
+Bucer_Eph_b          |  gold          |  gold           |  224 (12)  |  Martin Brucer       |  Epistolam ad Ephesios                                |  Anonymus           |  1527  |  Strasbourg  |  https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00035303-6  |  München Bayerische Staatsbibliothek  |  Polem. 408 Beibd.2
+Megander_Eph         |  gold          |  gold           |  282 (11)  |  Kaspar Megander     |  Epistolam ad Ephesios                                |  Henricus Petrus    |  1534  |  Basel       |  https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00036972-0  |  München Bayerische Staatsbibliothek  |  Exeg. 700 m
+Aretius_1-Tim        |  gold          |  gold           |  450(11)   |  Benedictus Aretius  |  in Epistolas ad Timotheum ad Titum et ad Philemonem  |  Jean Le preux      |  1580  |  Morges      |  https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10313792-3  |  München Bayerische Staatsbibliothek  |  Exeg. 53 Beibd.1
 
-the pages have been chosen at random, with the exception of those marked with an asterisk, which are used for the topic-modelling experiment. [corpus.](corpus_ocr.csv)
-- file nomenclature : name of the exegete_name of the commented epistle_ 
+the pages have been chosen at random, with the exception of those marked with an asterisk (*), which are used for the topic-modelling experiment. 
+- file nomenclature : name of the exegete_name of the commented epistle abbreviated according to the Vulgate_a letter in alphabetical order if an additional distinction is required
+  ex: Brucer_Eph_b  
+
+### corpus
+the are two corpora in the repository 
+1. the ocr corpus containing gold data for training the model see above and in this [csv file](corpus_ocr.csv)
+2. the working progress corpus indicating the texts that will be integrated into the work later or are currently being processed. For this corpus see [corpus_working_progress](corpus_working_progress.csv)
 
 ## Transcription guidelines
 
