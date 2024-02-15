@@ -25,8 +25,8 @@ the pages have been chosen at random, with the exception of those marked with an
 
 ### corpus
 the are two corpora in the repository 
-1. the ocr corpus containing gold data for training the model see above and in this [csv file](corpus_ocr.csv)
-2. the working progress corpus indicating the texts that will be integrated into the work later or are currently being processed. For this corpus see [corpus_working_progress](corpus_working_progress.csv)
+1. the ocr corpus containing gold data for training the model see above and in this [csv file](corpus/corpus_ocr.csv)
+2. the working progress corpus indicating the texts that will be integrated into the work later or are currently being processed. For this corpus see [corpus_working_progress](corpus/corpus_working_progress.csv)
 
 ## Transcription guidelines
 
