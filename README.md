@@ -21,7 +21,7 @@ Aretius_1-Tim        |  gold          |  gold           |  450(11)   |  Benedict
 
 The pages have been chosen at random, with the exception of those marked with an asterisk (*), which are used for the topic-modelling experiment. 
 
-### file nomenclature
+### files' nomenclature
 - name of the exegete_name of the commented epistle abbreviated according to the Vulgate_a letter in alphabetical order if an additional distinction is required
   ex: Brucer_Eph_b
 - files used for Topic-Modeling are classified by chapter unit. They are preceded by the letters T_M_ and ended by C and the number of the chapter in question.
