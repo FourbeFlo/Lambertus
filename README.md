@@ -65,6 +65,14 @@ The basis HTR model is provided by the model developped with [Gallicorpora](http
 The htr model is fine tunned for latin printed 16th centuary commentaries on my data and the [data](https://github.com/FoNDUE-HTR/FONDUE-LA-PRINT-16) produced by M. Jeannot-Tirole.
 last update of the htr model 24.01.24.
 
+## Fine tunned OCR Models
+OCR models are finetuned on the basis of two datasets of 16th century printed texts. The first is used for general character recognition and is made up of data from French text. It is particularly useful for recognising italic characters, of which there are many in the training files. For further details see [FONDUE-FR-PRINT-16](https://github.com/FoNDUE-HTR/FONDUE-FR-PRINT-16). The second allows the specialisation of the model for Latin texts, and is made up of Latin documents which thus encounter the same abbreviation systems as those in our corpus. For futher details see [FONDUE-LA-PRINT-16](https://github.com/FoNDUE-HTR/FONDUE-LA-PRINT-16/tree/main). our data is also included in this second data set.
+
+- fist model (20.01.24) : trained without without sufficient data on italic characters and no greek datas. 
+- second model (03.02.24) : traind with the addition of italic caracters and some greek caracters.
+
+for now (22.02.24 )reading Greek characters is the model's weak point. These have to be corrected manually for an optimal result. 
+
 ## Licence 
 The transcriptions are [CC-BY](https://creativecommons.org/licenses/by/4.0), and the images follow the rules of various digital libraries:
 - e-rara: https://www.e-rara.ch/wiki/termsOfUse?lang=en
