@@ -49,7 +49,8 @@ We follow the transcription of S. Gabay et al. Additional characters had to be t
 
 ## Segmentation   
 Using the SegmOnto segmentation standards,certain elements are considered to be faulty when the xml file is checked, but these errors have no consequences for the experiment.
-These include lettering that has been defined solely as [GraphicZone] without assigning lines. 
+These include lettering that has been defined solely as [GraphicZone] without assigning lines.
+
 identifier               |  DropCapitalZone issues                                                                                    |  GraphicZone issues                                                                                                                                                                                                     |
 -------------------------|------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--
 Aretius_1-Tim            |  [page_00469.xml](data/Aretius_1-Tim/page_00469.xml)                                                       |  [page_00469.xml](data/Aretius_1-Tim/page_00469.xml)                                                                                                                                                                    |
