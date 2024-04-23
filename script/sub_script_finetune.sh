@@ -1,10 +1,10 @@
-#!/bin/env bash
+#!/bin/bash
 #SBATCH --partition=shared-gpu
-#SBATCH --time=06:00:00
+#SBATCH --time=08:00:00
 #SBATCH --gpus=2
 #SBATCH --output=kraken-%j.out
 #SBATCH --mem=24GB
-#SBATCH --ntasks=12
+#SBATCH --ntasks=8
 #SBATCH --gres=gpu:2,VramPerGpu:24GB
 
 module load fosscuda/2020b Python/3.8.6
