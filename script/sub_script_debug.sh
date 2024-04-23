@@ -1,4 +1,4 @@
-#!/bin/env bash
+#!/bin/bash
 #SBATCH --partition=debug-gpu
 #SBATCH --time=00:05:00
 #SBATCH --gpus=2
