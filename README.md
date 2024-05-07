@@ -69,6 +69,7 @@ OCR models are finetuned on the basis of two datasets of 16th century printed te
 
 - [fist model](models/Lambertus_01_best.mlmodel) (20.01.24) : trained without without sufficient data on italic characters and no greek datas. 
 - [second model](models/Lambertus_02_best.mlmodel) (03.02.24) : traind with the addition of italic caracters and some greek caracters.
+- [third model](models/Lambertus_03_best.mlmodel)(04.30.24): trained with additionnal data, you find it in the release
 
 for now (22.02.24 )reading Greek characters is the model's weak point. These have to be corrected manually for an optimal result. 
 
