@@ -1,0 +1,15 @@
+data/Aretius_1-Tim/page_00055.xml
+data/Aretius_1-Tim/page_00073.xml
+data/Daneau_1-Tim/4_6c6d2_default.xml
+data/Daneau_1-Tim/5_a1010_default.xml
+data/T_M_Daneau_1_Tim_C1/2012888.xml
+data/T_M_Daneau_1_Tim_C1/2012891.xml
+data/T_M_Daneau_1_Tim_C1/2012900.xml
+data/T_M_Daneau_1_Tim_C1/2012925.xml
+data/T_M_Daneau_1_Tim_C1/2012928.xml
+data/T_M_Daneau_1_Tim_C1/2012934.xml
+data/T_M_Daneau_1_Tim_C2/2012963.xml
+data/T_M_Daneau_1_Tim_C2/2012972.xml
+data/T_M_Daneau_1_Tim_C2/2012986.xml
+data/T_M_Daneau_1_Tim_C2/2012990.xml
+data/T_M_Daneau_1_Tim_C2/2012994.xml

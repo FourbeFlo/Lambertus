@@ -1,0 +1,12 @@
+data/Aretius_1-Tim/page_00008.xml
+data/T_M_Daneau_1_Tim_C1/2012884.xml
+data/T_M_Daneau_1_Tim_C1/2012887.xml
+data/T_M_Daneau_1_Tim_C1/2012889.xml
+data/T_M_Daneau_1_Tim_C1/2012906.xml
+data/T_M_Daneau_1_Tim_C1/2012931.xml
+data/T_M_Daneau_1_Tim_C1/2012940.xml
+data/T_M_Daneau_1_Tim_C2/2012954.xml
+data/T_M_Daneau_1_Tim_C2/2012960.xml
+data/T_M_Daneau_1_Tim_C2/2012965.xml
+data/T_M_Daneau_1_Tim_C2/2012969.xml
+data/T_M_Daneau_1_Tim_C2/2013000.xml
