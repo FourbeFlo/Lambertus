@@ -80,4 +80,42 @@ The transcriptions are [CC-BY](https://creativecommons.org/licenses/by/4.0), and
   
 ## Citation
 Floriane Goy, _Data for roman 16 th c. Latin print_,  university of Geneve 2023
+
+
+## citation : Repository
+
+- Version `1.0`: Floriane Goy,  OCR data and segmentation of 16th century Latin printed text (16th century exegesis of paul project)_, version `1.0`, Genève, université de Genève, 2023, https://github.com/FourbeFlo/Lambertus.
+
+```bibtex
+@misc{Goy_exegesisofPaul_2023,
+  author={Floriane Goy},
+  title={OCR data and segmentation of 16th century Latin printed text},
+  version={1.0},
+  address={Genève},
+  publisher={université de Genève},
+  year={2023},
+  url={https://github.com/FourbeFlo/Lambertus},
+}
+```
+
+## Citation : Projet
+
+Ueli Zahnd, Stefan Krauter, MAtteo Colombo, Floriane Goy, Benjamin Manig, Noemi Schürmann,  _16th Century Exegesis of Paul_, Geneva ; Zürich, university of Geneva and Zürich, 2023.
+
+```bibtex
+@misc{Goy_exegesisofPaul_2023,
+  author={Ueli Zahnd, Stefan Krauter, MAtteo Colombo, Floriane Goy, Benjamin Manig, Noemi Schürmann},
+  title={16th Century Exegesis of Paul},
+  address={Geneva; Zürich},
+  publisher={univesity of Geneva; university of Zürich},
+  year={2023},
+  url={https://www.theologie.uzh.ch/de/faecher/neues-testament/Professur-f%C3%BCr-neutestamentliche-Wissenschaft/16th_century_exegesis_of_paul.html},
+  note={numéro de projet FNS : 207696},
+}
+```
+## On the project
+
+-  Reformation Readings of Paul : [RRP](https://rrp.zahnd.be/) : database for the 16th century printed commentaries on Paul.
+-  in Zürich [exegesis of Paul](https://www.theologie.uzh.ch/de/faecher/neues-testament/Professur-f%C3%BCr-neutestamentliche-Wissenschaft/16th_century_exegesis_of_paul.html) and Geneva [l'exégèse des épîtres pauliniennes](https://www.unige.ch/ihr/fr/accueil/exegese-paulinienne/)
+
  
