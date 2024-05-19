@@ -110,7 +110,7 @@ Ueli Zahnd, Stefan Krauter, MAtteo Colombo, Floriane Goy, Benjamin Manig, Noemi 
   publisher={univesity of Geneva; university of Zürich},
   year={2023},
   url={https://www.theologie.uzh.ch/de/faecher/neues-testament/Professur-f%C3%BCr-neutestamentliche-Wissenschaft/16th_century_exegesis_of_paul.html},
-  note={numéro de projet FNS : 207696},
+  note={Grant number SNFS : 207696},
 }
 ```
 ## On the project
