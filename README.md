@@ -87,7 +87,7 @@ Floriane Goy, _Data for roman 16 th c. Latin print_,  university of Geneve 2023
 - Version `1.0`: Floriane Goy,  OCR data and segmentation of 16th century Latin printed text (16th century exegesis of paul project)_, version `1.0`, Genève, université de Genève, 2023, https://github.com/FourbeFlo/Lambertus.
 
 ```bibtex
-@misc{Goy_exegesisofPaul_2023,
+@misc{Goy_Lambertus_exegesisofPaul_2023,
   author={Floriane Goy},
   title={OCR data and segmentation of 16th century Latin printed text},
   version={1.0},
