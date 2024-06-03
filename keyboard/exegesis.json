@@ -1,0 +1,68 @@
+{
+    "version": "0.1",
+    "name": "exegesis",
+    "author": "Floriane",
+    "characters": [
+        {
+            "row": 0,
+            "column": 0,
+            "character": "q;",
+            "legend" : "Latin small letter et with the shapped semi-colon",
+            "keyboard_code": null
+        },
+        {
+            "row": 0,
+            "column": 1,
+            "character": "ſ",
+            "keyboard_code": null
+        },
+        {
+            "row": 0,
+            "column": 2,
+            "character": "¬",
+            "keyboard_code": 67
+        },
+        {
+            "row": 0,
+            "column": 3,
+            "character": "æ",
+            "legend": "ligature ae",
+            "keyboard_code": 68
+        },
+        {
+            "row": 1,
+            "column": 2,
+            "character": ";",
+            "legend": "shapped semi-colon",
+            "keyboard_code": null
+        },
+        {
+            "row": 1,
+            "column": 3,
+            "character": "ꝙ",
+            "legend": "Q with diagonal stroke",
+            "keyboard_code": null   
+        },
+        {
+            "row": 2,
+            "column": 1,
+            "character": "q́;",
+            "legend": "acute accent on q with shapped semi-colon",
+            "keyboard_code": null 
+        },
+        {
+            "row": 2,
+            "column": 2,
+            "character": "·",
+            "legend": "middle dot",
+            "keyboard_code": null   
+        },
+        {
+            "row": 2,
+            "column": 3,
+            "character": "đ",
+            "legend": "d with a stroke",
+            "keyboard_code": null   
+        }
+    ]
+}
