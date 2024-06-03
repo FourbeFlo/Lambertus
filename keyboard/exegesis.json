@@ -30,6 +30,13 @@
             "keyboard_code": 68
         },
         {
+            "row": 0,
+            "column": 4,
+            "character": "❧",
+            "legend": "fleuron",
+            "keyboard_code": "U+2767"
+        },
+        {
             "row": 1,
             "column": 2,
             "character": ";",
