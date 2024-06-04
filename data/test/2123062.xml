@@ -405,7 +405,7 @@
                     WIDTH="52"
                     HEIGHT="60">
             <Shape><Polygon POINTS="720 145 720 166 771 167 772 145 771 107 720 114 720 145"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="90"
                     HPOS="720"
                     VPOS="107"
                     WIDTH="52"
