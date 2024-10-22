@@ -63,12 +63,6 @@ Using SegmOnto segmentation standards, the following elements have been flagged 
 
 The HTR model used is based on the model developed by [Gallicorpora](https://github.com/Gallicorpora/Segmentation-and-HTR-Models). It has been fine-tuned for 16th-century Latin printed commentaries. 
 
-- **Model Lambertus_01**: Initial model (20.01.24), lacks data on italic and Greek characters.
-- **Model Lambertus_02**: Updated model (03.02.24), includes italic characters and Greek symbols.
-- **Model Lambertus_03**: Latest model (30.04.24), includes additional training data for improved accuracy.
-
-> Note: As of 22.02.24, the model struggles with Greek characters, requiring manual correction.
-
 ## Fine-Tuned OCR Models
 
 The OCR models have been fine-tuned based on two datasets of 16th-century printed texts:
@@ -82,6 +76,7 @@ The OCR models have been fine-tuned based on two datasets of 16th-century printe
    More details: [FONDUE-LA-PRINT-16](https://github.com/FoNDUE-HTR/FONDUE-LA-PRINT-16/tree/main). Our data is also included in this dataset.
 
 ### Model Versions:
+Model files and relevant details are stored under `models/`.
 
 - **[First Model](models/Lambertus_01_best.mlmodel) (20.01.24)**:  
   Trained without sufficient data on italic characters and no Greek data.
