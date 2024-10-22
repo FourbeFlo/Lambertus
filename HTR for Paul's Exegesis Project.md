@@ -83,6 +83,8 @@ The OCR models have been fine-tuned based on two datasets of 16th-century printe
 
 ### Model Versions:
 
+Model files and relevant details are stored `models/`.
+
 - **[First Model](models/Lambertus_01_best.mlmodel) (20.01.24)**:  
   Trained without sufficient data on italic characters and no Greek data.
 
